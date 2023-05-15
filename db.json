@@ -150,33 +150,161 @@
           "The state of Bihar was formed on March 22, 1912.",
           "Bihar shares its borders with Uttar Pradesh, West Bengal, Jharkhand, and Nepal.",
           "The famous Mauryan emperor Ashoka was born in Patna, Bihar.",
-          "Bihar is known for its famous sweet dish, the 'litti-chokha'.",
-          ]
-
-   
-          
+          "Bihar is known for its famous sweet dish, the 'litti-chokha'."
+         ]       
     },
     {
       "id": 2,
-      "title": "The Cotton Club",
-      "year": "1984",
-      "runtime": "127",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Music"
-      ],
-      "director": "Francis Ford Coppola",
-      "actors": "Richard Gere, Gregory Hines, Diane Lane, Lonette McKee",
-      "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg",
+      "title": "Arunachal Pradesh",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
       "Images": [
-"https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NTI4NjE3NV5BMl5BanBnXkFtZTYwMDA0Nzc4._V1_.jpg",
-"https://images-na.ssl-images-amazon.com/images/M/MV5BMTIwMDg2MDU4M15BMl5BanBnXkFtZTYwMTA0Nzc4._V1_.jpg",
-"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDM1OTU5OV5BMl5BanBnXkFtZTYwMjA0Nzc4._V1_.jpg",
-"https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0MTI2NjMzMzFeQTJeQWpwZ15BbWU2MDMwNDc3OA@@._V1_.jpg"
-]
-    },
+          "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+          ],
+       
+        "cities": [
+          {
+            "id": 1,
+            "name": "Patna",
+            "description": "Patna is the capital and largest city of Bihar."
+          },
+          {
+            "id": 2,
+            "name": "Gaya",
+            "description": "Gaya is a holy city in Bihar, known for its famous Vishnupad Temple."
+          },
+          {
+            "id": 3,
+            "name": "Muzaffarpur",
+            "description": "Muzaffarpur is a commercial hub in Bihar, famous for its litchi fruit."
+          },
+          {
+            "id": 4,
+            "name": "Bhagalpur",
+            "description": "Bhagalpur is a city in Bihar, known for its silk industry."
+          },
+          {
+            "id": 5,
+            "name": "Darbhanga",
+            "description": "Darbhanga is a city in Bihar, famous for its Mithila paintings."
+          },
+          {
+            "id": 6,
+            "name": "Purnia",
+            "description": "Purnia is a city in Bihar, known for its agriculture and trade."
+          }
+        ],
+        "about": "Bihar is a state in eastern India, with Patna as its capital. The state has a rich cultural and historical heritage, and is known for its famous Buddhist sites, such as Bodh Gaya and Rajgir. Bihar is also known for its agriculture and industries, such as textiles, sugar, and chemicals.",
+        "attractions": [
+          {
+            "id": 1,
+            "name": "Bodh Gaya",
+            "description": "Bodh Gaya is a famous Buddhist pilgrimage site in Bihar, where Lord Buddha is said to have attained enlightenment.",
+            "image": "https://example.com/bodhgaya.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Nalanda University",
+            "description": "Nalanda University is an ancient Buddhist university in Bihar, which was one of the world's first universities.",
+            "image": "https://example.com/nalanda.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Mahabodhi Temple",
+            "description": "Mahabodhi Temple is a UNESCO World Heritage site in Bodh Gaya, Bihar, which is one of the oldest brick temples in India.",
+            "image": "https://example.com/mahabodhi.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Vishnupad Temple",
+            "description": "Vishnupad Temple is a famous Hindu temple in Gaya, Bihar, dedicated to Lord Vishnu.",
+            "image": "https://example.com/vishnupad.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Golghar",
+            "description": "Golghar is a historic granary in Patna, Bihar, which was built in the 18th century to store grains.",
+            "image": "https://example.com/golghar.jpg"
+          }
+        ],
+        "thingsToDo": [
+          {
+            "id": 1,
+            "name": "Boating in Ganges",
+            "description": "Take a boat ride on the holy river Ganges in Patna and experience the spiritual side of Bihar.",
+            "image": "https://example.com/boating.jpg"
+          },
+          {
+            "id":2,
+            "name": "Litchi Picking",
+            "description": "Visit Muzaffarpur during litchi season and experience the joy of picking and eating fresh litchis.",
+            "image": "https://example.com/litchi.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Visit Mithila Paintings",
+            "description": "Visit Darbhanga and explore the vibrant Mithila paintings, which are famous for their intricate designs and colors.",
+            "image": "https://example.com/mithila.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Explore the Caves",
+            "description": "Visit the Barabar Caves in Bihar, which are ancient rock-cut caves and are believed to be some of the oldest surviving rock-cut structures in India.",
+            "image": "https://example.com/caves.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Visit Waterfalls",
+            "description": "Explore the natural beauty of Bihar by visiting some of its beautiful waterfalls, such as Karkat Waterfall, Sahastradhara Waterfall, and Hundru Waterfall.",
+            "image": "https://example.com/waterfalls.jpg"
+          }
+          ],
+          "events": [
+          {
+          "id": 1,
+          "name": "Chhath Puja",
+          "description": "Chhath Puja is a popular Hindu festival in Bihar, celebrated to thank the Sun God for sustaining life on Earth.",
+          "image": "https://example.com/chhath.jpg"
+          },
+          {
+          "id": 2,
+          "name": "Sonepur Mela",
+          "description": "Sonepur Mela is a popular annual cattle fair in Bihar, which is known for its wide variety of animals and birds.",
+          "image": "https://example.com/sonepur.jpg"
+          },
+          {
+          "id": 3,
+          "name": "Rajgir Mahotsav",
+          "description": "Rajgir Mahotsav is a cultural festival held in Rajgir, Bihar, which showcases the rich heritage and traditions of the state.",
+          "image": "https://example.com/rajgir.jpg"
+          },
+          {
+          "id": 4,
+          "name": "Bihar Diwas",
+          "description": "Bihar Diwas is celebrated on March 22 every year, to commemorate the formation of the state of Bihar.",
+          "image": "https://example.com/bihardiwas.jpg"
+          },
+          {
+          "id": 5,
+          "name": "Pitrapaksha Mela",
+          "description": "Pitrapaksha Mela is a Hindu festival held in Gaya, Bihar, where people offer prayers to their ancestors.",
+          "image": "https://example.com/pitrapaksha.jpg"
+          }
+          ],
+          "facts": [
+          "Bihar is the 13th largest state in India by area.",
+          "The official language of Bihar is Hindi.",
+          "The literacy rate of Bihar is 61.8%.",
+          "Bihar has a population of over 120 million people.",
+          "The state of Bihar was formed on March 22, 1912.",
+          "Bihar shares its borders with Uttar Pradesh, West Bengal, Jharkhand, and Nepal.",
+          "The famous Mauryan emperor Ashoka was born in Patna, Bihar.",
+          "Bihar is known for its famous sweet dish, the 'litti-chokha'."
+         ]  
+    }
     
     
     ]
