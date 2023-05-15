@@ -51,31 +51,31 @@
             "id": 1,
             "name": "Bodh Gaya",
             "description": "Bodh Gaya is a famous Buddhist pilgrimage site in Bihar, where Lord Buddha is said to have attained enlightenment.",
-            "image": "https://example.com/bodhgaya.jpg"
+            "image": "https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80"
           },
           {
             "id": 2,
             "name": "Nalanda University",
             "description": "Nalanda University is an ancient Buddhist university in Bihar, which was one of the world's first universities.",
-            "image": "https://example.com/nalanda.jpg"
+            "image": "https://images.unsplash.com/photo-1670597786308-5d3e2d1436be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80"
           },
           {
             "id": 3,
             "name": "Mahabodhi Temple",
             "description": "Mahabodhi Temple is a UNESCO World Heritage site in Bodh Gaya, Bihar, which is one of the oldest brick temples in India.",
-            "image": "https://example.com/mahabodhi.jpg"
+            "image": "https://images.unsplash.com/photo-1666006903005-29e1ea1c8a47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
           },
           {
             "id": 4,
             "name": "Vishnupad Temple",
             "description": "Vishnupad Temple is a famous Hindu temple in Gaya, Bihar, dedicated to Lord Vishnu.",
-            "image": "https://example.com/vishnupad.jpg"
+            "image": "https://images.unsplash.com/photo-1602772576452-2728cd3bca17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
           },
           {
             "id": 5,
             "name": "Golghar",
             "description": "Golghar is a historic granary in Patna, Bihar, which was built in the 18th century to store grains.",
-            "image": "https://example.com/golghar.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Golghar_%E0%A5%AA.jpg/500px-Golghar_%E0%A5%AA.jpg"
           }
         ],
         "thingsToDo": [
@@ -83,31 +83,31 @@
             "id": 1,
             "name": "Boating in Ganges",
             "description": "Take a boat ride on the holy river Ganges in Patna and experience the spiritual side of Bihar.",
-            "image": "https://example.com/boating.jpg"
+            "image": "https://images.unsplash.com/photo-1558184525-2218e8c34914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
           },
           {
             "id":2,
             "name": "Litchi Picking",
             "description": "Visit Muzaffarpur during litchi season and experience the joy of picking and eating fresh litchis.",
-            "image": "https://example.com/litchi.jpg"
+            "image": "https://images.unsplash.com/photo-1643100569574-603f0739a50f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
           },
           {
             "id": 3,
             "name": "Visit Mithila Paintings",
             "description": "Visit Darbhanga and explore the vibrant Mithila paintings, which are famous for their intricate designs and colors.",
-            "image": "https://example.com/mithila.jpg"
+            "image": "https://5.imimg.com/data5/ANDROID/Default/2021/4/JM/DI/UK/127161346/product-jpeg-500x500.jpg"
           },
           {
             "id": 4,
             "name": "Explore the Caves",
             "description": "Visit the Barabar Caves in Bihar, which are ancient rock-cut caves and are believed to be some of the oldest surviving rock-cut structures in India.",
-            "image": "https://example.com/caves.jpg"
+            "image": "https://images.unsplash.com/photo-1459356067573-0a190eb1fcf5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80"
           },
           {
             "id": 5,
             "name": "Visit Waterfalls",
             "description": "Explore the natural beauty of Bihar by visiting some of its beautiful waterfalls, such as Karkat Waterfall, Sahastradhara Waterfall, and Hundru Waterfall.",
-            "image": "https://example.com/waterfalls.jpg"
+            "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           }
           ],
           "events": [
@@ -115,31 +115,31 @@
           "id": 1,
           "name": "Chhath Puja",
           "description": "Chhath Puja is a popular Hindu festival in Bihar, celebrated to thank the Sun God for sustaining life on Earth.",
-          "image": "https://example.com/chhath.jpg"
+          "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           },
           {
           "id": 2,
           "name": "Sonepur Mela",
           "description": "Sonepur Mela is a popular annual cattle fair in Bihar, which is known for its wide variety of animals and birds.",
-          "image": "https://example.com/sonepur.jpg"
+          "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           },
           {
           "id": 3,
           "name": "Rajgir Mahotsav",
           "description": "Rajgir Mahotsav is a cultural festival held in Rajgir, Bihar, which showcases the rich heritage and traditions of the state.",
-          "image": "https://example.com/rajgir.jpg"
+          "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           },
           {
           "id": 4,
           "name": "Bihar Diwas",
           "description": "Bihar Diwas is celebrated on March 22 every year, to commemorate the formation of the state of Bihar.",
-          "image": "https://example.com/bihardiwas.jpg"
+          "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           },
           {
           "id": 5,
           "name": "Pitrapaksha Mela",
           "description": "Pitrapaksha Mela is a Hindu festival held in Gaya, Bihar, where people offer prayers to their ancestors.",
-          "image": "https://example.com/pitrapaksha.jpg"
+          "image": "https://images.unsplash.com/photo-1531698451051-18c97580aeb2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
           }
           ],
           "facts": [
