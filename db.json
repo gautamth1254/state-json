@@ -547,7 +547,179 @@
     "The Namdapha National Park in Arunachal Pradesh is the largest protected area in the Eastern Himalayas and is renowned for its biodiversity.",
     
   ]
+},
+    {
+  "id": 5, 
+  "title": "Gujarat",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Ahmedabad",
+      "description": "Ahmedabad is the largest city in Gujarat and a major cultural and industrial hub."
+    },
+    {
+      "id": 2,
+      "name": "Surat",
+      "description": "Surat is a bustling city in Gujarat, known for its textile and diamond industries."
+    },
+    {
+      "id": 3,
+      "name": "Vadodara",
+      "description": "Vadodara is a city in Gujarat, famous for its rich history, architecture, and vibrant culture."
+    },
+    {
+      "id": 4,
+      "name": "Rajkot",
+      "description": "Rajkot is a city in Gujarat, known for its textile, jewelry, and watch industries."
+    },
+    {
+      "id": 5,
+      "name": "Gandhinagar",
+      "description": "Gandhinagar is the capital city of Gujarat, known for its well-planned infrastructure and the famous Akshardham temple."
+    },
+    {
+      "id": 6,
+      "name": "Bhuj",
+      "description": "Bhuj is a city in Gujarat, renowned for its rich cultural heritage, historical sites, and proximity to the Rann of Kutch."
+    }
+  ],
+  "about": "Gujarat is a state located in western India, known for its rich cultural heritage, historical sites, and vibrant festivals. The state is famous for its diverse landscapes, including the white salt desert of the Rann of Kutch, the Gir Forest National Park, and the ancient ruins of the Indus Valley Civilization at Dholavira. Gujarat is also renowned for its traditional arts and crafts, lip-smacking cuisine, and warm hospitality.",
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Sabarmati Ashram",
+      "description": "Sabarmati Ashram, located in Ahmedabad, is a historic site associated with Mahatma Gandhi and the Indian independence movement.",
+      "image": "https://images.unsplash.com/photo-1624903715314-3cef94e6bfe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2231&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Rani Ki Vav",
+      "description": "Rani Ki Vav is an intricately designed stepwell in Patan, Gujarat, recognized as a UNESCO World Heritage site.",
+      "image": "https://images.unsplash.com/photo-1645336123947-0c13e6a1d6fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=654&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Somnath Temple",
+      "description": "Somnath Temple is a famous Hindu temple dedicated to Lord Shiva, located in Somnath, Gujarat.",
+      "image": "https://images.unsplash.com/photo-1591700430569-9469d38b1006?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2228&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Sun Temple",
+      "description": "Sun Temple is a magnificent temple dedicated to the Sun God, located in Modhera, Gujarat.",
+      "image": "https://images.unsplash.com/photo-1590812855152-7d2bc336a5e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1754&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Gir Forest National Park",
+      "description": "Gir Forest National Park is a wildlife sanctuary in Gujarat and the only natural habitat of the Asiatic lions.",
+      "image": "https://images.unsplash.com/photo-1624341679500-b3ffeca0df59?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1242&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Dholavira",
+      "description": "Dholavira is an archaeological site in Gujarat, known for its well-preserved ruins of the ancient Indus Valley Civilization.",
+      "image": "https://images.unsplash.com/photo-1669721539500-e283f6702f5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "id": 1,
+      "name": "Explore the Rann of Kutch",
+      "description": "Visit the white salt desert of the Rann of Kutch and experience its surreal beauty, especially during the Rann Utsav festival.",
+      "image": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
+      
+    },
+    {
+      "id": 2,
+      "name": "Attend Navratri Festival",
+      "description": "Participate in the vibrant Navratri festival celebrations in Gujarat, known for its colorful traditional dance forms like Garba and Dandiya Raas.",
+      "image":"https://images.unsplash.com/photo-1626094306120-f8dc413aff8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1771&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Take a Heritage Walk in Ahmedabad",
+      "description": "Join a heritage walk in Ahmedabad and explore the old city's narrow lanes, historic buildings, and intricately carved wooden havelis.",
+      "image": "https://images.unsplash.com/photo-1590637740538-992ea101b700?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Witness the International Kite Festival",
+      "description": "Enjoy the International Kite Festival in Gujarat, held annually on January 14th, where the sky is filled with colorful kites of various shapes and sizes.",
+      "image":"https://images.unsplash.com/photo-1571849291280-89f81a772893?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Visit the Statue of Unity",
+      "description": "Marvel at the Statue of Unity, the world's tallest statue dedicated to Sardar Vallabhbhai Patel, located near Vadodara.",
+      "image": "https://images.unsplash.com/photo-1631983097767-099c77bf880d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Go Wildlife Safari in Gir Forest",
+      "description": "Embark on a thrilling wildlife safari in Gir Forest National Park and get a chance to spot the majestic Asiatic lions in their natural habitat.",
+      "image": "https://images.unsplash.com/photo-1625123159087-cb41cc220f45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2911&q=80"
+      
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Rann Utsav",
+      "description": "Rann Utsav is a vibrant festival held in the Rann of Kutch, featuring cultural performances, traditional crafts, and camel rides.",
+      "image":"https://images.unsplash.com/photo-1670406312373-6d4d1776e4aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1180&q=80",
+      "date": "November - February"
+    },
+    {
+      "id": 2,
+      "name": "International Kite Festival",
+      "description": "The International Kite Festival is a grand celebration of kite flying, where participants from around the world showcase their unique kites.",
+      "iamge":"https://images.unsplash.com/photo-1554234742-92481f1e2e9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1644&q=80",
+      "date": "January 14th"
+    },
+    {
+      "id": 3,
+      "name": "Navratri Festival",
+      "description": "Navratri is a nine-night festival dedicated to the worship of Goddess Durga, accompanied by lively Garba and Dandiya Raas dance performances.",
+      "image":"https://images.unsplash.com/photo-1622279487170-dbccd34eda0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "date": "September - October"
+    },
+    {
+      "id": 4,
+      "name": "Modhera Dance Festival",
+      "description": "Modhera Dance Festival is a cultural extravaganza held against the backdrop of the Sun Temple in Modhera, showcasing classical and folk dances.",
+      "iamge":"https://www.gujarattourism.com/content/dam/gujrattourism/images/fairs-festivals/modhera-dance-festival/Modhera%20Dance%20large.jpg",
+      "date": "January"
+    },
+    {
+      "id": 5,
+      "name": "Tarnetar Fair",
+      "description": "Tarnetar Fair is a traditional fair held in Tarnetar village, known for its vibrant folk music, dance, and various traditional competitions.",
+      "image":"https://static.toiimg.com/thumb/70958939/tar.jpg?width=1200&height=900",
+      "date": "August - September"
+    },
+    {
+      "id": 6,
+      "name": "Bhavnath Mahadev Fair",
+      "description": "Bhavnath Mahadev Fair is a religious fair held at the Bhavnath Mahadev Temple in Junagadh, attracting thousands of devotees.",
+      "image":"https://images.unsplash.com/photo-1513265662348-bc1a7de98fff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1769&q=80",
+      "date": "February - March"
+    }
+  ],
+      "facts": [
+    " Gujarat is located in the western part of India and shares its borders with Pakistan to the northwest and the Arabian Sea to the southwest.",
+    "Gujarat is known for its rich cultural heritage and vibrant traditions. The state celebrates various festivals with enthusiasm, including Navratri, Diwali, and Uttarayan (Kite Festival)",
+    "Gujarat is one of the most industrialized states in India and is often referred to as the Growth Engine of India. It is home to several large industrial sectors such as textiles, petrochemicals, pharmaceuticals, engineering, and automotive.",
+    "Gujarat has a rich historical background and was an important center of the Indus Valley Civilization. It has been ruled by various dynasties and empires, including the Mauryas, Guptas, Solankis, and Mughals.",
+    "The iconic leader Mahatma Gandhi was born in Porbandar, Gujarat. The state holds significant importance in India's freedom struggle, and several landmarks associated with Gandhi, such as Sabarmati Ashram in Ahmedabad, can be visited.",
+    "Gujarat boasts several UNESCO World Heritage Sites, including the ancient ruins of Champaner-Pavagadh, Rani ki Vav (Stepwell) in Patan, and the historic city of Ahmedabad.",
+    "With a long coastline along the Arabian Sea, Gujarat offers beautiful beaches and coastal attractions such as Mandvi Beach, Dwarka Beach, and Somnath Temple located by the sea.",
+    "Gujarat is renowned for its vibrant textile industry, known for its intricate embroidery, tie-and-dye (Bandhani), and traditional handloom weaving. Cities like Ahmedabad and Surat are major textile hubs."    
+  ]
+      
+      
 }
+
 
     ]
   }
