@@ -3,15 +3,8 @@
   "states": [
     {
       "id": 1,
-      "title": "Andaman And Nicobar",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
-      "Images": [
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ],
+      "title": "Bihar",
+      
        
         "cities": [
           {
@@ -155,158 +148,407 @@
     },
     {
       "id": 2,
-      "title": "Arunachal Pradesh",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg",
-      "Images": [
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2ODQ3NjMyMl5BMl5BanBnXkFtZTcwODg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxOTEwNDcxN15BMl5BanBnXkFtZTcwOTg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
-          "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxMDg1Nzk1MV5BMl5BanBnXkFtZTcwMDk0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
-          ],
-       
-        "cities": [
-          {
-            "id": 1,
-            "name": "Patna",
-            "description": "Patna is the capital and largest city of Bihar."
-          },
-          {
-            "id": 2,
-            "name": "Gaya",
-            "description": "Gaya is a holy city in Bihar, known for its famous Vishnupad Temple."
-          },
-          {
-            "id": 3,
-            "name": "Muzaffarpur",
-            "description": "Muzaffarpur is a commercial hub in Bihar, famous for its litchi fruit."
-          },
-          {
-            "id": 4,
-            "name": "Bhagalpur",
-            "description": "Bhagalpur is a city in Bihar, known for its silk industry."
-          },
-          {
-            "id": 5,
-            "name": "Darbhanga",
-            "description": "Darbhanga is a city in Bihar, famous for its Mithila paintings."
-          },
-          {
-            "id": 6,
-            "name": "Purnia",
-            "description": "Purnia is a city in Bihar, known for its agriculture and trade."
-          }
-        ],
-        "about": "Bihar is a state in eastern India, with Patna as its capital. The state has a rich cultural and historical heritage, and is known for its famous Buddhist sites, such as Bodh Gaya and Rajgir. Bihar is also known for its agriculture and industries, such as textiles, sugar, and chemicals.",
-        "attractions": [
-          {
-            "id": 1,
-            "name": "Bodh Gaya",
-            "description": "Bodh Gaya is a famous Buddhist pilgrimage site in Bihar, where Lord Buddha is said to have attained enlightenment.",
-            "image": "https://example.com/bodhgaya.jpg"
-          },
-          {
-            "id": 2,
-            "name": "Nalanda University",
-            "description": "Nalanda University is an ancient Buddhist university in Bihar, which was one of the world's first universities.",
-            "image": "https://example.com/nalanda.jpg"
-          },
-          {
-            "id": 3,
-            "name": "Mahabodhi Temple",
-            "description": "Mahabodhi Temple is a UNESCO World Heritage site in Bodh Gaya, Bihar, which is one of the oldest brick temples in India.",
-            "image": "https://example.com/mahabodhi.jpg"
-          },
-          {
-            "id": 4,
-            "name": "Vishnupad Temple",
-            "description": "Vishnupad Temple is a famous Hindu temple in Gaya, Bihar, dedicated to Lord Vishnu.",
-            "image": "https://example.com/vishnupad.jpg"
-          },
-          {
-            "id": 5,
-            "name": "Golghar",
-            "description": "Golghar is a historic granary in Patna, Bihar, which was built in the 18th century to store grains.",
-            "image": "https://example.com/golghar.jpg"
-          }
-        ],
-        "thingsToDo": [
-          {
-            "id": 1,
-            "name": "Boating in Ganges",
-            "description": "Take a boat ride on the holy river Ganges in Patna and experience the spiritual side of Bihar.",
-            "image": "https://example.com/boating.jpg"
-          },
-          {
-            "id":2,
-            "name": "Litchi Picking",
-            "description": "Visit Muzaffarpur during litchi season and experience the joy of picking and eating fresh litchis.",
-            "image": "https://example.com/litchi.jpg"
-          },
-          {
-            "id": 3,
-            "name": "Visit Mithila Paintings",
-            "description": "Visit Darbhanga and explore the vibrant Mithila paintings, which are famous for their intricate designs and colors.",
-            "image": "https://example.com/mithila.jpg"
-          },
-          {
-            "id": 4,
-            "name": "Explore the Caves",
-            "description": "Visit the Barabar Caves in Bihar, which are ancient rock-cut caves and are believed to be some of the oldest surviving rock-cut structures in India.",
-            "image": "https://example.com/caves.jpg"
-          },
-          {
-            "id": 5,
-            "name": "Visit Waterfalls",
-            "description": "Explore the natural beauty of Bihar by visiting some of its beautiful waterfalls, such as Karkat Waterfall, Sahastradhara Waterfall, and Hundru Waterfall.",
-            "image": "https://example.com/waterfalls.jpg"
-          }
-          ],
-          "events": [
-          {
-          "id": 1,
-          "name": "Chhath Puja",
-          "description": "Chhath Puja is a popular Hindu festival in Bihar, celebrated to thank the Sun God for sustaining life on Earth.",
-          "image": "https://example.com/chhath.jpg"
-          },
-          {
-          "id": 2,
-          "name": "Sonepur Mela",
-          "description": "Sonepur Mela is a popular annual cattle fair in Bihar, which is known for its wide variety of animals and birds.",
-          "image": "https://example.com/sonepur.jpg"
-          },
-          {
-          "id": 3,
-          "name": "Rajgir Mahotsav",
-          "description": "Rajgir Mahotsav is a cultural festival held in Rajgir, Bihar, which showcases the rich heritage and traditions of the state.",
-          "image": "https://example.com/rajgir.jpg"
-          },
-          {
-          "id": 4,
-          "name": "Bihar Diwas",
-          "description": "Bihar Diwas is celebrated on March 22 every year, to commemorate the formation of the state of Bihar.",
-          "image": "https://example.com/bihardiwas.jpg"
-          },
-          {
-          "id": 5,
-          "name": "Pitrapaksha Mela",
-          "description": "Pitrapaksha Mela is a Hindu festival held in Gaya, Bihar, where people offer prayers to their ancestors.",
-          "image": "https://example.com/pitrapaksha.jpg"
-          }
-          ],
-          "facts": [
-          "Bihar is the 13th largest state in India by area.",
-          "The official language of Bihar is Hindi.",
-          "The literacy rate of Bihar is 61.8%.",
-          "Bihar has a population of over 120 million people.",
-          "The state of Bihar was formed on March 22, 1912.",
-          "Bihar shares its borders with Uttar Pradesh, West Bengal, Jharkhand, and Nepal.",
-          "The famous Mauryan emperor Ashoka was born in Patna, Bihar.",
-          "Bihar is known for its famous sweet dish, the 'litti-chokha'."
-         ]  
+      "title": "Punjab",
+     
+  
+  "cities": [
+    {
+      "id": 1,
+      "name": "Chandigarh",
+      "description": "Chandigarh is the capital city of both Punjab and Haryana and serves as a Union Territory."
+    },
+    {
+      "id": 2,
+      "name": "Amritsar",
+      "description": "Amritsar is a major city in Punjab, known for the Golden Temple and its historical significance."
+    },
+    {
+      "id": 3,
+      "name": "Ludhiana",
+      "description": "Ludhiana is the largest city in Punjab and an important industrial and commercial center."
+    },
+    {
+      "id": 4,
+      "name": "Jalandhar",
+      "description": "Jalandhar is a city in Punjab, known for its sports industry and historical landmarks."
+    },
+    {
+      "id": 5,
+      "name": "Patiala",
+      "description": "Patiala is a city in Punjab, famous for its royal heritage and cultural richness."
+    },
+    {
+      "id": 6,
+      "name": "Amritsar",
+      "description": "Amritsar is a major city in Punjab, known for the Golden Temple and its historical significance."
     }
+  ],
+  "about": "Punjab is a state located in northern India, with Chandigarh serving as its shared capital with Haryana. The state is known for its fertile land, rich agricultural production, and vibrant cultural heritage. Punjab is often referred to as the 'Land of Five Rivers' due to the presence of the Beas, Chenab, Jhelum, Ravi, and Sutlej rivers. It has a significant Sikh population and is home to many important religious sites for Sikhs.",
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Golden Temple",
+      "description": "The Golden Temple, also known as Harmandir Sahib, is the holiest Gurudwara of Sikhism and a major pilgrimage site in Amritsar, Punjab.",
+      "image": "https://images.unsplash.com/photo-1590178851577-eb45c70a1d75?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Jallianwala Bagh",
+      "description": "Jallianwala Bagh is a public garden in Amritsar, Punjab, which commemorates the massacre of peaceful protestors by British forces in 1919.",
+      "image": "https://images.unsplash.com/photo-1579824851655-7986133c55ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Wagah Border",
+      "description": "The Wagah Border is a famous border crossing between India and Pakistan, located near Amritsar, where the daily flag lowering ceremony attracts numerous visitors.",
+      "image": "https://images.unsplash.com/photo-1618924132790-b5aa65d8fe3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Anandpur Sahib",
+      "description": "Anandpur Sahib is a sacred city in Punjab and holds immense religious importance for Sikhs. It is known for hosting the annual Hola Mohalla festival.",
+      "image": "https://images.unsplash.com/photo-1591980370659-3a2b09b6a65b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "id": 1,
+      "name": "Visit the Punjab State Museum",
+      "description": "Explore the rich history and culture of Punjab by visiting the Punjab State Museum in Chandigarh. It houses a vast collection of artifacts, including ancient sculptures, manuscripts, and artworks.",
+      "image": "https://images.unsplash.com/photo-1606780688253-aa62b9c20bb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Enjoy a boat ride in Sukhna Lake",
+      "description": "Sukhna Lake in Chandigarh offers a serene ambiance and is perfect for a leisurely boat ride. Enjoy the scenic beauty, go for a stroll, or indulge in various water activities.",
+      "image": "https://images.unsplash.com/photo-1603504043278-273d07d2b019?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Experience rural life at a Punjabi village",
+      "description": "Visit a Punjabi village to experience the vibrant rural life of Punjab. Witness traditional farming practices, enjoy folk music and dance performances, and savor authentic Punjabi cuisine.",
+      "image": "https://images.unsplash.com/photo-1549303687-cabd3e61f576?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Attend the Baisakhi Festival",
+      "description": "Celebrate the vibrant Baisakhi festival in Punjab, marking the harvest season and the formation of the Khalsa Panth. Enjoy lively processions, traditional music, and dance performances.",
+      "image": "https://images.unsplash.com/photo-1586737300664-90d78e0d0e7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1800&q=80"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Hola Mohalla",
+      "description": "Hola Mohalla is a Sikh festival held annually at Anandpur Sahib in Punjab. It showcases various martial arts, mock battles, and spiritual lectures.",
+      "date": "March 14-16, 2023",
+      "location": "Anandpur Sahib, Punjab"
+    },
+    {
+      "id": 2,
+      "name": "Heritage and Tourism Fair",
+      "description": "The Heritage and Tourism Fair is a cultural extravaganza held in Amritsar, showcasing the rich heritage, art, and craft of Punjab.",
+      "date": "October 20-22, 2023",
+      "location": "Amritsar, Punjab"
+    },
+    {
+      "id": 3,
+      "name": "Chhapar Mela",
+      "description": "Chhapar Mela is a traditional fair held in Chhapar village, Punjab, featuring folk music, dance, and various rural sports.",
+      "date": "September 25-27, 2023",
+      "location": "Chhapar, Punjab"
+    },
+    {
+      "id": 4,
+      "name": "Punjab International Trade Expo",
+      "description": "The Punjab International Trade Expo is a major trade fair held in Ludhiana, showcasing a wide range of industries and products from Punjab.",
+      "date": "November 15-20, 2023",
+      "location": "Ludhiana, Punjab"
+    }
+  ],
+  "facts": [
+    "Punjab is known for its agricultural productivity and is often referred to as the 'Granary of India' due to its significant contribution to the nation's food supply.",
+    "The Golden Temple in Amritsar attracts millions of visitors from all over the world and is considered one of the most spiritually significant places for Sikhs.",
+    "Punjab has a rich tradition of Bhangra and Giddha, energetic folk dances that are an integral part of the Punjabi culture.",
+    "The Punjabi cuisine is renowned for its rich flavors and variety, with popular dishes like butter chicken, sarson da saag, and makki di roti.",
+    "Punjab shares a border with Pakistan and is known for its historical significance in the partition of India in 1947.",
+    "The state has made significant contributions to the fields of sports, entertainment, and music, with many renowned athletes, actors, and musicians hailing from Punjab.",
+    "Punjab has a well-developed transportation infrastructure, including airports, railways, and an extensive road network connecting major cities and towns.",
+    "The state government of Punjab has implemented several initiatives to promote education, healthcare, and women empowerment in the region."
+  ]
+},
+  {
+  "id": 3,
+  "title": "Goa",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Panaji",
+      "description": "Panaji is the capital city of Goa and a popular tourist destination known for its scenic beauty and Portuguese architecture."
+    },
+    {
+      "id": 2,
+      "name": "Margao",
+      "description": "Margao is the second-largest city in Goa and a commercial hub famous for its markets and vibrant culture."
+    },
+    {
+      "id": 3,
+      "name": "Vasco da Gama",
+      "description": "Vasco da Gama is a coastal city in Goa known for its port and beaches, and it serves as the gateway to the state."
+    },
+    {
+      "id": 4,
+      "name": "Calangute",
+      "description": "Calangute is a popular beach town in North Goa known for its lively atmosphere, water sports, and nightlife."
+    },
+    {
+      "id": 5,
+      "name": "Anjuna",
+      "description": "Anjuna is a coastal village in Goa famous for its scenic beach, flea market, and vibrant trance music scene."
+    },
+    {
+      "id": 6,
+      "name": "Old Goa",
+      "description": "Old Goa, also known as Velha Goa, is a UNESCO World Heritage Site and an ancient city that was the capital of Portuguese India."
+    }
+  ],
+  "about": "Goa is a state in western India known for its stunning beaches, vibrant nightlife, and Portuguese influence. It is a popular tourist destination that attracts visitors from around the world. Goa offers a unique blend of natural beauty, rich history, delicious cuisine, and a relaxed lifestyle. The state is also famous for its colonial-era architecture, churches, and temples.",
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Baga Beach",
+      "description": "Baga Beach is one of the most popular beaches in Goa, known for its scenic beauty, water sports, and beach shacks.",
+      "image": "https://images.unsplash.com/photo-1565549633-bd4b65203b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Dudhsagar Falls",
+      "description": "Dudhsagar Falls is a majestic four-tiered waterfall located on the Mandovi River, surrounded by lush greenery.",
+      "image": "https://images.unsplash.com/photo-1560796715-2b10b3ce7f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Fort Aguada",
+      "description": "Fort Aguada is a well-preserved Portuguese fort in Goa, offering panoramic views of the Arabian Sea and the surrounding areas.",
+      "image":"https://images.unsplash.com/photo-1560796751-49b39e36c713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Anjuna Flea Market",
+      "description": "Anjuna Flea Market is a vibrant open-air market in Goa where you can find a wide range of goods, including clothing, accessories, handicrafts, and souvenirs.",
+      "image": "https://images.unsplash.com/photo-1602535632652-97d8d1012e9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Basilica of Bom Jesus",
+      "description": "The Basilica of Bom Jesus is a UNESCO World Heritage Site and a famous church in Old Goa that houses the mortal remains of St. Francis Xavier.",
+      "image": "https://images.unsplash.com/photo-1579186575073-4d83eb10a9a4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Dona Paula",
+      "description": "Dona Paula is a popular viewpoint and beach in Goa known for its stunning views of the Arabian Sea and the merging of two rivers.",
+      "image": "https://images.unsplash.com/photo-1578581332361-3c047e32fdd4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Chapora Fort",
+      "description": "Chapora Fort is a popular tourist attraction in Goa, known for its panoramic views of the Arabian Sea and its association with Bollywood movie 'Dil Chahta Hai.'",
+      "image": "https://images.unsplash.com/photo-1560796698-9191a54e2aa8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    }
+  ],
+
+  "thingsToDo": [
+    {
+      "id": 1,
+      "name": "Water Sports",
+      "description": "Enjoy thrilling water sports activities like jet skiing, parasailing, banana boat rides, and scuba diving in the pristine waters of Goa.",
+      "image": "https://images.unsplash.com/photo-1577329267273-70a5c84dbcc8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Nightlife",
+      "description": "Experience the vibrant nightlife of Goa at its numerous bars, clubs, and beach shacks. Enjoy live music, DJ performances, and beach parties that go on till the early hours of the morning.",
+      "image": "https://images.unsplash.com/photo-1554723451-5ae7efa10eae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Spice Plantations",
+      "description": "Visit the spice plantations in Goa and take a tour to learn about various spices like cardamom, cinnamon, and pepper. Experience the aromatic flavors and enjoy traditional Goan meals.",
+      "image": "https://images.unsplash.com/photo-1584524336516-85e69ea5e521?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Sunburn Festival",
+      "description": "Sunburn Festival is one of Asia's biggest electronic music festivals held in Goa. It attracts renowned DJs and music enthusiasts from around the world.",
+      "image": "https://images.unsplash.com/photo-1545355031-c8d7febc28b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80",
+      "date": "December"
+    },
+    {
+      "id": 2,
+      "name": "Goa Carnival",
+      "description": "Goa Carnival is a vibrant and colorful celebration that takes place before Lent. Enjoy parades, floats, music, dance, and a lively atmosphere during this festival.",
+      "image": "https://images.unsplash.com/photo-1614269010114-5fd6c9007596?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80",
+      "date": "February"
+    },
+    {
+      "id": 3,
+      "name": "Goa International Jazz Live Festival",
+      "description": "The Goa International Jazz Live Festival showcases a fusion of jazz, funk, soul, and world music. It features renowned international and Indian artists.",
+      "image": "https://images.unsplash.com/photo-1521574443703-207c3f70ec85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=80",
+      "date": "November"
+    }
+  ],
+  "facts": [
+    "Goa is the smallest state in India by area.",
+    "The state was a Portuguese colony until 1961, resulting in a unique blend of Indian and Portuguese cultures.",
+    "Goa is famous for its sandy beaches, with popular ones including Calangute, Baga, Anjuna, and Palolem.",
+    "The state is known as the 'Rome of the East' due to its numerous churches and cathedrals.",
+    "Goa is home to a variety of wildlife sanctuaries and national parks, including the famous Bhagwan Mahavir Wildlife Sanctuary and Mollem National Park.",
+    "The cuisine of Goa is renowned for its spicy flavors and seafood dishes.",
+    "The official language of Goa is Konkani, but English is widely spoken and understood.",
+    "The state attracts a large number of tourists from India and abroad, making tourism a significant part of its economy."
+  ]
+},
+  {
+  "id": 4,
+  "title": "Arunachal Pradesh",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Itanagar",
+      "description": "Itanagar is the capital city of Arunachal Pradesh and a major cultural and commercial hub."
+    },
+    {
+      "id": 2,
+      "name": "Tawang",
+      "description": "Tawang is a town in Arunachal Pradesh, known for its scenic beauty, ancient monasteries, and Tibetan Buddhist culture."
+    },
+    {
+      "id": 3,
+      "name": "Ziro",
+      "description": "Ziro is a beautiful hill station in Arunachal Pradesh, famous for its lush green landscapes, rice fields, and indigenous tribal villages."
+    },
+    {
+      "id": 4,
+      "name": "Dirang",
+      "description": "Dirang is a small town in Arunachal Pradesh, offering panoramic views of the surrounding mountains, hot water springs, and a rich cultural heritage."
+    },
+    {
+      "id": 5,
+      "name": "Bomdila",
+      "description": "Bomdila is a town located at an elevation in Arunachal Pradesh, known for its Buddhist monasteries, apple orchards, and snow-capped mountains."
+    }
+  ],
+  "about": "Arunachal Pradesh is a state in northeastern India, known for its scenic landscapes, diverse tribal culture, and rich biodiversity. It is one of the least explored regions of India and offers breathtaking views of the Eastern Himalayas. The state is home to numerous indigenous tribes, each with its unique traditions and customs. Arunachal Pradesh is also famous for its monasteries, national parks, and adventure tourism opportunities.",
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Tawang Monastery",
+      "description": "Tawang Monastery is the largest monastery in India and a revered Buddhist pilgrimage site in Arunachal Pradesh.",
+      "image": "https://example.com/tawang_monastery.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bomdila Monastery",
+      "description": "Bomdila Monastery is a prominent Buddhist monastery in Arunachal Pradesh, offering panoramic views of the surrounding valleys.",
+      "image": "https://example.com/bomdila_monastery.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ziro Valley",
+      "description": "Ziro Valley is a picturesque valley in Arunachal Pradesh, known for its rice fields, scenic beauty, and indigenous tribal villages.",
+      "image": "https://example.com/ziro_valley.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sela Pass",
+      "description": "Sela Pass is a high-altitude mountain pass in Arunachal Pradesh, offering breathtaking views of snow-capped peaks and lakes.",
+      "image": "https://example.com/sela_pass.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sangti Valley",
+      "description": "Sangti Valley is a picturesque valley in Arunachal Pradesh, known for its natural beauty, apple orchards, and bird watching.",
+      "image": "https://example.com/sangti_valley.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Parasuram Kund",
+      "description": "Parasuram Kund is a sacred Hindu pilgrimage site in Arunachal Pradesh, known for its natural hot springs and religious significance.",
+      "image": "https://example.com/parasuram_kund.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Malinithan",
+      "description": "Malinithan is an archaeological site in Arunachal Pradesh, featuring the ruins of a 14th-century Hindu temple and sculptures.",
+      "image": "https://example.com/malinithan.jpg"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "id": 1,
+      "name": "Trekking in Tawang",
+      "description": "Embark on a thrilling trekking adventure in Tawang, exploring the mesmerizing beauty of the Himalayan landscapes and remote tribal villages.",
+      "image": "https://example.com/trekking_tawang.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Rafting in Kameng River",
+      "description": "Experience the adrenaline rush of river rafting in Kameng River, navigating through the thrilling rapids amidst the pristine natural surroundings of Arunachal Pradesh.",
+      "image": "https://example.com/rafting_kameng_river.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Visit Tawang Monastery",
+      "description": "Explore the ancient Tawang Monastery, one of the largest monasteries in India, and immerse yourself in the peaceful ambiance of Tibetan Buddhism.",
+      "image": "https://example.com/tawang_monastery.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Explore Nuranang Falls",
+      "description": "Witness the majestic beauty of Nuranang Falls, also known as Jang Falls, as the pristine water cascades down amidst the lush greenery of Arunachal Pradesh.",
+      "image": "https://example.com/nuranang_falls.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Attend Ziro Music Festival",
+      "description": "Experience the vibrant Ziro Music Festival, a popular outdoor music festival held in the scenic Ziro Valley, showcasing the best of independent music.",
+      "image": "https://example.com/ziro_music_festival.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Losar Festival",
+      "description": "Celebrate the vibrant Losar Festival, the Tibetan New Year, in Tawang with colorful rituals, traditional dances, and music performances.",
+      "image": "https://example.com/losar_festival.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Siang River Festival",
+      "description": "Participate in the exhilarating Siang River Festival, a celebration of the Siang River's beauty and its significance to the local communities.",
+      "image": "https://example.com/siang_river_festival.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ziro Festival of Music",
+      "description": "Immerse yourself in the enchanting Ziro Festival of Music, a four-day outdoor music festival featuring renowned artists from across the country.",
+      "image": "https://example.com/ziro_music_festival.jpg"
+    }
+  ],
+  "facts": [
+    "Arunachal Pradesh is the easternmost state of India, bordering the countries of Bhutan, China, and Myanmar.",
+    "The Tawang Monastery in Arunachal Pradesh is the largest monastery in India and the second-largest in the world.",
+    "Arunachal Pradesh is known as the 'Land of the Dawn-Lit Mountains' because it is the first place in India to witness the sunrise.",
+    "The state of Arunachal Pradesh is home to more than 100 indigenous tribes, each with its distinct languages, cultures, and traditions.",
+    "The Namdapha National Park in Arunachal Pradesh is the largest protected area in the Eastern Himalayas and is renowned for its biodiversity.",
     
-    
+  ]
+}
+
     ]
   }
 ]  
