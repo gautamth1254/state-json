@@ -708,6 +708,161 @@
                "With a long coastline along the Arabian Sea, Gujarat offers beautiful beaches and coastal attractions such as Mandvi Beach, Dwarka Beach, and Somnath Temple located by the sea.",
                "Gujarat is renowned for its vibrant textile industry, known for its intricate embroidery, tie-and-dye (Bandhani), and traditional handloom weaving. Cities like Ahmedabad and Surat are major textile hubs."
             ]
+         },
+         {
+            "id":6,
+            "title":"Kerala",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Thiruvananthapuram",
+                  "description":"Thiruvananthapuram, also known as Trivandrum, is the capital city of Kerala and is home to various historical landmarks and beaches."
+               },
+               {
+                  "id":2,
+                  "name":"Kochi",
+                  "description":"Kochi, also known as Cochin, is a major port city in Kerala and is famous for its backwaters, beaches, and historical landmarks."
+               },
+               {
+                  "id":3,
+                  "name":"Kozhikode",
+                  "description":"Kozhikode, also known as Calicut, is a coastal city in Kerala and is known for its beaches, historical landmarks, and cuisine."
+               },
+               {
+                  "id":4,
+                  "name":"Thrissur",
+                  "description":"Thrissur is a cultural and religious hub in Kerala and is famous for its temples, festivals, and art forms."
+               },
+               {
+                  "id":5,
+                  "name":"Alappuzha",
+                  "description":"Alappuzha, also known as Alleppey, is a popular tourist destination in Kerala and is famous for its backwaters, beaches, and houseboats."
+               },
+               {
+                  "id":6,
+                  "name":"Kollam",
+                  "description":"Kollam, also known as Quilon, is a coastal city in Kerala and is known for its beaches, backwaters, and historical landmarks."
+               }
+            ],
+            "about":"Kerala, located in the southwestern region of India, is known as 'God's Own Country' for its natural beauty, diverse culture, and rich history. The state is home to numerous beaches, backwaters, hill stations, and wildlife sanctuaries. Kerala offers a blend of natural beauty, historical landmarks, and spiritual experiences.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Backwaters of Alleppey",
+                  "description":"The backwaters of Alleppey are a network of lagoons, canals, and lakes that offer a unique boating experience amidst the serene natural beauty.",
+                  "image":"https://media.istockphoto.com/id/481916851/photo/house-boat-in-backwaters.webp?b=1&s=170667a&w=0&k=20&c=AXjHZjVfZy7dInbpIAhgYSi-ilSihUx2TZP9m3PYE38="
+               },
+               {
+                  "id":2,
+                  "name":"Fort Kochi",
+                  "description":"Fort Kochi is a historic neighborhood in Kochi that showcases the colonial influence on Kerala's architecture and culture.",
+                  "image":"https://media.istockphoto.com/id/664355912/photo/santa-cruz-cathedral-basilica-church-in-fort-kochi-kerala-india.webp?b=1&s=170667a&w=0&k=20&c=1pc7-WaSdLOJmUqhyon1BFyqSrSUYTRlUjwtvptzeEQ="
+               },
+               {
+                  "id":3,
+                  "name":"Athirapally Waterfalls",
+                  "description":"Athirapally Waterfalls is a scenic waterfall located in Thrissur district that offers breathtaking views amidst the lush green forest.",
+                  "image":"https://media.istockphoto.com/id/1348019471/photo/athirapally-waterfall-kerla-india.webp?b=1&s=170667a&w=0&k=20&c=LP4ktfkIc04PLG59IDN_oI8YTQb3R8vVhGPJYBl2-lQ="
+               },
+               {
+                  "id":4,
+                  "name":"Tea Plantations of Munnar",
+                  "description":"Munnar is a hill station in Kerala that is famous for its tea plantations and scenic beauty.",
+                  "image":"https://media.istockphoto.com/id/946810930/photo/tea-plantations-in-kerala-south-india.webp?b=1&s=170667a&w=0&k=20&c=5Zs0VwxbJWHXESnjx1k0OvVnv1RVzp-DyG0MiwFvBQc="
+               },
+               {
+                  "id":5,
+                  "name":"Padmanabhaswamy Temple",
+                  "description":"Padmanabhaswamy Temple is a famous Hindu temple located in Thiruvananthapuram that showcases the Dravidian style of architecture.",
+                  "image":"https://media.istockphoto.com/id/507707260/photo/tea-plantation-in-india.webp?b=1&s=170667a&w=0&k=20&c=E8tHf8S9PE0rfz9rA-d3dcJfLYNs-Orx5xrUCAjo7PY="
+               },
+               {
+                  "id":6,
+                  "name":"Bekal Fort",
+                  "description":"Bekal Fort is a historic fort located in Kasaragod district that offers panoramic views of the Arabian Sea.",
+                  "image":"https://media.istockphoto.com/id/1332351939/photo/kasaragod-kerala-india-august-02-2021-view-of-ancient-historical-fort-namely-bekal-fort.webp?b=1&s=170667a&w=0&k=20&c=2_NlF4AiJTR19lYdZgcFZsnuY-M8IUYMRIkwPKZLYG4="
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Experience the Backwaters of Alleppey",
+                  "description":"Take a boat ride and experience the serene beauty of the backwaters of Alleppey. You can also stay in a houseboat and enjoy the traditional Kerala cuisine while cruising through the backwaters.",
+                  "image":"https://media.istockphoto.com/id/510011776/photo/alleppey-backwaters.webp?b=1&s=170667a&w=0&k=20&c=m_E80AEUrdWmTMei6VFts4Wi_Gayy_VC6kMkvUSwXbM="
+               },
+               {
+                  "id":2,
+                  "name":"Explore the Wildlife Sanctuaries",
+                  "description":"Kerala is home to various wildlife sanctuaries such as Periyar Wildlife Sanctuary, Silent Valley National Park, and Wayanad Wildlife Sanctuary. You can take a jeep safari or trek through the forests to spot various species of animals and birds.",
+                  "image":"https://unsplash.com/photos/N9s3FjzsstM"
+               },
+               {
+                  "id":3,
+                  "name":"Visit the Hill Stations",
+                  "description":"Kerala has several hill stations such as Munnar, Wayanad, and Vagamon that offer breathtaking views of the mountains and valleys. You can go trekking, camping, or just relax amidst the cool climate and natural beauty.",
+                  "image":"https://images.unsplash.com/photo-1663597675816-9b5d68952f42?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8a2VyYWxhJTIwaGlsbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+               },
+               {
+                  "id":4,
+                  "name":"Experience the Ayurvedic Spa",
+                  "description":"Kerala is known for its traditional Ayurvedic treatments that offer relaxation and rejuvenation. You can experience various therapies such as massage, yoga, and meditation in the Ayurvedic spas located across the state.",
+                  "image":"https://media.istockphoto.com/id/1265403719/photo/karkidaka-rice-soup-or-kanji-herbal-monsoon-food-kerala-india.webp?b=1&s=170667a&w=0&k=20&c=pAVX2EuM3PtcY5Cm26Ao3gxz36rFtXbihlg2AZ0wQSc="
+               },
+               {
+                  "id":5,
+                  "name":"Attend the Festivals",
+                  "description":"Kerala is known for its vibrant festivals such as Onam, Vishu, and Thrissur Pooram that showcase the culture and traditions of the state. You can witness the colorful processions, fireworks, and traditional performances during these festivals.",
+                  "image":"https://media.istockphoto.com/id/1279649394/photo/jackfruit-chips.webp?b=1&s=170667a&w=0&k=20&c=ozJUVcoXLXWpCceYY0h9fY8seoolp5dEAOVI8KTVx-Y="
+               },
+               {
+                  "id":6,
+                  "name":"Indulge in the Cuisine",
+                  "description":"Kerala cuisine is famous for its spicy and flavorful dishes such as appam, puttu, and fish curry. You can try the traditional dishes in the local restaurants or attend a cooking class to learn how to cook them yourself.",
+                  "image":"https://media.istockphoto.com/id/1156896083/photo/cheese-masala-dosa-recipe-with-sambar-and-chutney-selective-focus.webp?b=1&s=170667a&w=0&k=20&c=5IG3QwgKh9ph1O3f0SsodXkFFlHM7EDSFU1KbRqz1ts="
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Onam",
+                  "description":"Onam is a popular harvest festival in Kerala, celebrated to mark the homecoming of King Mahabali.",
+                  "image":"https://media.istockphoto.com/id/1273243432/photo/closeup-of-an-colorful-traditional-indian-art-known-as-rangoli.webp?b=1&s=170667a&w=0&k=20&c=w-SkX2zCdExist3H9WFA1sV9NCmRkJTTlQsDVpVUUA4="
+               },
+               {
+                  "id":2,
+                  "name":"Vishu",
+                  "description":"Vishu is a Malayalam New Year festival celebrated in Kerala, marked by the first day of the Medam month.",
+                  "image":"https://media.istockphoto.com/id/1322434000/photo/vishukkani-or-vishu-sight-kerala-festival.webp?b=1&s=170667a&w=0&k=20&c=s7wMIHvvL7wSus0-zPGRjApGw6XkhbwF9WBIW0Rmy-o="
+               },
+               {
+                  "id":3,
+                  "name":"Thrissur Pooram",
+                  "description":"Thrissur Pooram is a popular temple festival held at the Vadakkunnathan Temple in Thrissur, Kerala.",
+                  "image":"https://media.istockphoto.com/id/484056606/photo/decorated-elephant.webp?b=1&s=170667a&w=0&k=20&c=q_Dw-tIpfbuyIUuDMOoKuEN9Omdn4hTkH78Mc7WL8KU="
+               },
+               {
+                  "id":4,
+                  "name":"Nehru Trophy Boat Race",
+                  "description":"Nehru Trophy Boat Race is a popular boat race held in the Punnamada Lake in Alappuzha, Kerala.",
+                  "image":"https://media.istockphoto.com/id/483722682/photo/traditional-snake-boat-on-the-kerala-backwaters-in-india.webp?b=1&s=170667a&w=0&k=20&c=r9-hT5CGz6ackuZlSELPVjE8jVWumbfX6XE_KiG7Soc="
+               },
+               {
+                  "id":5,
+                  "name":"Kerala Literature Festival",
+                  "description":"Kerala Literature Festival is an annual literary festival held in Kozhikode, Kerala, which brings together writers, poets, and intellectuals from around the world.",
+                  "image":"https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S2VyYWxhJTIwTGl0ZXJhdHVyZSUyMEZlc3RpdmFsfGVufDB8fDB8fHww&auto=format&fit=crop&w=1000&q=60"
+               }
+            ],
+            "facts":[
+               "Kerala is the 22nd largest state in India by area.",
+               "The official language of Kerala is Malayalam.",
+               "The literacy rate of Kerala is 96.2%.",
+               "Kerala has a population of over 33 million people.",
+               "The state of Kerala was formed on November 1, 1956.",
+               "Kerala shares its borders with Tamil Nadu, Karnataka, and the Lakshadweep Sea.",
+               "Kerala is known for its backwaters, beaches, and hill stations.",
+               "Kerala has the highest life expectancy and the lowest infant mortality rate in India."
+            ]
          }
       ]
    }
