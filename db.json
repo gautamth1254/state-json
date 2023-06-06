@@ -863,6 +863,1976 @@
                "Kerala is known for its backwaters, beaches, and hill stations.",
                "Kerala has the highest life expectancy and the lowest infant mortality rate in India."
             ]
+         },
+         {
+            "id":7,
+            "title":"Maharashtra",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Mumbai",
+                  "description":"Mumbai is the capital city of Maharashtra and also the financial capital of India."
+               },
+               {
+                  "id":2,
+                  "name":"Pune",
+                  "description":"Pune is a city in Maharashtra known for its pleasant weather and educational institutions."
+               },
+               {
+                  "id":3,
+                  "name":"Nashik",
+                  "description":"Nashik is a city in Maharashtra known for its vineyards and ancient temples."
+               },
+               {
+                  "id":4,
+                  "name":"Aurangabad",
+                  "description":"Aurangabad is a city in Maharashtra known for its UNESCO World Heritage sites such as Ajanta and Ellora caves."
+               },
+               {
+                  "id":5,
+                  "name":"Nagpur",
+                  "description":"Nagpur is a city in Maharashtra known for its oranges and also called the 'Orange City'."
+               },
+               {
+                  "id":6,
+                  "name":"Kolhapur",
+                  "description":"Kolhapur is a city in Maharashtra known for its rich history, culture, and cuisine."
+               }
+            ],
+            "about":"Maharashtra is a state located in the western region of India. It is the second-most populous state in India and is known for its rich history, diverse culture, and natural beauty. Maharashtra is home to several prominent cities, including Mumbai, Pune, and Nagpur. The state is also known for its delicious cuisine, which includes popular dishes such as vada pav, pav bhaji, and misal pav.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Gateway of India",
+                  "description":"The Gateway of India is an iconic monument located in Mumbai, built to commemorate the visit of King George V and Queen Mary to India in 1911.",
+                  "image":"https://media.istockphoto.com/id/172371293/photo/gateway-to-india.webp?b=1&s=170667a&w=0&k=20&c=uv7H_hxrxkN9vUW4d3exiV-MW9Nuldu5eMwFqO7mKtM="
+               },
+               {
+                  "id":2,
+                  "name":"Shirdi Sai Baba Temple",
+                  "description":"Shirdi Sai Baba Temple is a famous pilgrimage site located in Shirdi, Maharashtra, dedicated to the revered saint Sai Baba.",
+                  "image":"https://media.istockphoto.com/id/1147794364/photo/main-temple-of-shirdi-sai-baba-in-shirdi.webp?b=1&s=170667a&w=0&k=20&c=Cjz4E1A6Pe1zc5Hmzvj3jV00sxGC6gVv2zDDUb1_5Uo="
+               },
+               {
+                  "id":3,
+                  "name":"Ajanta Caves",
+                  "description":"The Ajanta Caves are UNESCO World Heritage sites located near Aurangabad, Maharashtra, known for their ancient rock-cut caves and sculptures.",
+                  "image":"https://media.istockphoto.com/id/483439954/photo/ajanta-caves-buddhist-temples-in-arrangabad-india.webp?b=1&s=170667a&w=0&k=20&c=CojKJF8HEGAa7Qv3s8cvTVxzDkdoVIMIRCEZfeNnRlg="
+               },
+               {
+                  "id":4,
+                  "name":"Elephanta Caves",
+                  "description":"The Elephanta Caves are located on an island near Mumbai and are known for their ancient rock-cut temples and sculptures.",
+                  "image":"https://media.istockphoto.com/id/979180834/photo/elephanta-caves-historical-architecture-in-mumbai-india.webp?b=1&s=170667a&w=0&k=20&c=L1QcQW0E_pygkQ0P5sE-914CTSnUisP2i1sHHfc1pWw="
+               },
+               {
+                  "id":5,
+                  "name":"Panchgani",
+                  "description":"Panchgani is a hill station located near Pune, Maharashtra, known for its scenic beauty and strawberry farms.",
+                  "image":"https://media.istockphoto.com/id/1412647514/photo/pasarni-ghat-area-panchgani-maharashtra-india.webp?b=1&s=170667a&w=0&k=20&c=5PRjb4GQ7mNKWjcpBYSUySz-tGVMSYG7wL5iV_LC_Qw="
+               },
+               {
+                  "id":6,
+                  "name":"Sula Vineyards",
+                  "description":"Sula Vineyards is a winery located in Nashik, Maharashtra, known for its award-winning wines and scenic vineyards.",
+                  "image":"https://media.istockphoto.com/id/485595434/photo/bunch-of-purple-grapes-on-the-vine-with-green-leaves.webp?b=1&s=170667a&w=0&k=20&c=e83PGqpvpXImVzj8jCrfbj93ENSxHUjXIAjcGQG4Se4="
+               }
+            ],
+            "facts":[
+               "Maharashtra is the second-most populous state in India with over 112 million people.",
+               "Mumbai, the capital city of Maharashtra, is the financial capital of India and the home of Bollywood.",
+               "The official language of Maharashtra is Marathi.",
+               "Maharashtra has a literacy rate of 82.3%.",
+               "The state of Maharashtra was formed on May 1, 1960, after the reorganization of states in India.",
+               "Maharashtra shares its borders with Gujarat, Madhya Pradesh, Chhattisgarh, Telangana, Karnataka, and Goa.",
+               "The Ajanta and Ellora caves in Maharashtra are UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+               "Maharashtra is known for its delicious cuisine, including popular dishes such as vada pav, pav bhaji, and misal pav."
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Elephanta Caves",
+                  "description":"Visit the Elephanta Caves, a UNESCO World Heritage site located on an island near Mumbai, known for its ancient rock-cut caves and sculptures.",
+                  "image":"https://media.istockphoto.com/id/176806136/photo/elephanta-cave-temple-facade-mumbai.webp?b=1&s=170667a&w=0&k=20&c=3iZyNvb2Wl4e2KG4Y6so6Id5jflkaxQlwytSEkAaCnc="
+               },
+               {
+                  "id":2,
+                  "name":"Beach Hopping",
+                  "description":"Explore the beautiful beaches of Maharashtra, such as Juhu Beach, Alibaug Beach, and Ganpatipule Beach.",
+                  "image":"https://media.istockphoto.com/id/815480194/photo/mumbai-summer.webp?b=1&s=170667a&w=0&k=20&c=nTf4T9-95D-ZVvlPtV33aHG_BPHVKDln1cjMSIh2v08="
+               },
+               {
+                  "id":3,
+                  "name":"Hiking in Western Ghats",
+                  "description":"Go for a hike in the Western Ghats, a UNESCO World Heritage site and one of the eight 'hottest hotspots' of biological diversity in the world.",
+                  "image":"https://media.istockphoto.com/id/1417325612/photo/naneghat-reverse-fountain-spot-in-the-mountain-ranges-of-sahyadri-mountain-ranges-of.webp?b=1&s=170667a&w=0&k=20&c=k5S8nkt4B4SdJPOhz87KtdY54iAvW_jXZe2nOzHw4QA="
+               },
+               {
+                  "id":4,
+                  "name":"Visit Hill Stations",
+                  "description":"Explore the scenic hill stations of Maharashtra, such as Lonavala, Mahabaleshwar, and Matheran.",
+                  "image":"https://media.istockphoto.com/id/1135453575/photo/waterfall-in-lonavala.webp?b=1&s=170667a&w=0&k=20&c=IFL6vyYGfolyfnK1ZJz57E4hXHwCt1W8cfo___4CZi8="
+               },
+               {
+                  "id":5,
+                  "name":"Visit Ajanta and Ellora Caves",
+                  "description":"Visit the Ajanta and Ellora Caves, UNESCO World Heritage sites known for their ancient rock-cut caves and sculptures.",
+                  "image":"https://media.istockphoto.com/id/1181630943/photo/cave-16-kailasa-temple-top-view-showing-rang-mahal-ellora-caves-aurangabad-maharashtra-india.webp?b=1&s=170667a&w=0&k=20&c=Qv8KSs0X74LxIHarqE90AiF3QjVMimCBH0mm19BtC-g="
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ganesh Chaturthi",
+                  "description":"Ganesh Chaturthi is a popular Hindu festival celebrated in Maharashtra, which marks the birth of Lord Ganesha.",
+                  "image":"https://media.istockphoto.com/id/1262196234/photo/lord-ganesha-ganesha-festival-lord-ganesha-on-colorful-background.webp?b=1&s=170667a&w=0&k=20&c=WJCp_0q100V4GG0xy-SItkpY4bSriU3G7svj2hNRqcc="
+               },
+               {
+                  "id":2,
+                  "name":"Kala Ghoda Arts Festival",
+                  "description":"Kala Ghoda Arts Festival is a popular annual arts festival held in Mumbai, which showcases various forms of art, such as music, dance, theater, and visual arts.",
+                  "image":"https://media.istockphoto.com/id/1026566484/photo/kettle-and-tea-glasses-kala-ghoda-arts-festival-mumbai-maharashtra-india.webp?b=1&s=170667a&w=0&k=20&c=jsEUWKK0nENHYR09HnzPJJlYtLiwzVzyyszj9zoVbLU="
+               },
+               {
+                  "id":3,
+                  "name":"Pune International Film Festival",
+                  "description":"Pune International Film Festival is an annual film festival held in Pune, which showcases films from various countries and genres.",
+                  "image":"https://media.istockphoto.com/id/908498982/photo/crowds.webp?b=1&s=170667a&w=0&k=20&c=8q5nd7B_AhTGQPgp08SbEhEe2Qk0siObNsKFZlB7xnk="
+               },
+               {
+                  "id":4,
+                  "name":"Maharashtra Day",
+                  "description":"Maharashtra Day is celebrated on May 1 every year, to commemorate the formation of the state of Maharashtra.",
+                  "image":"https://media.istockphoto.com/id/1078903506/photo/rooftop-image-of-buildings-and-neighboring-community-mumbai-maharashtra.webp?b=1&s=170667a&w=0&k=20&c=TLMBLoSm3swggjMvflCEDEcPO-jJTMc08GWcMwYbQ4k="
+               },
+               {
+                  "id":5,
+                  "name":"Sula Fest",
+                  "description":"Sula Fest is an annual wine and music festival held in Nashik, which features performances by various artists and wine tasting sessions.",
+                  "image":"https://media.istockphoto.com/id/1141427484/photo/dj-mixing-outdoor-at-beach-party-festival-with-crowd-of-people-in-background-summer-nightlife.webp?b=1&s=170667a&w=0&k=20&c=MqbJdLXw1ynco1TrBLWMpKvkX3tU74wj07TXWiX9EzI="
+               }
+            ]
+         },
+         {
+            "id":8,
+            "title":"Tamil Nadu",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Chennai",
+                  "description":"Chennai is the capital and largest city of Tamil Nadu, known for its beaches, temples, and vibrant culture."
+               },
+               {
+                  "id":2,
+                  "name":"Madurai",
+                  "description":"Madurai is a city in Tamil Nadu, known for its ancient temples and rich cultural heritage."
+               },
+               {
+                  "id":3,
+                  "name":"Coimbatore",
+                  "description":"Coimbatore is a city in Tamil Nadu, known for its textile and engineering industries."
+               },
+               {
+                  "id":4,
+                  "name":"Tiruchirappalli",
+                  "description":"Tiruchirappalli is a city in Tamil Nadu, known for its historic temples and educational institutions."
+               },
+               {
+                  "id":5,
+                  "name":"Salem",
+                  "description":"Salem is a city in Tamil Nadu, known for its textile and steel industries."
+               },
+               {
+                  "id":6,
+                  "name":"Tirunelveli",
+                  "description":"Tirunelveli is a city in Tamil Nadu, known for its ancient temples and natural beauty."
+               }
+            ],
+            "about":"Tamil Nadu is a state in southern India, with Chennai as its capital. The state has a rich cultural heritage, and is known for its ancient temples, vibrant festivals, and delicious cuisine. Tamil Nadu is also an important industrial hub, with industries such as textiles, engineering, and automobile manufacturing.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Meenakshi Amman Temple",
+                  "description":"Meenakshi Amman Temple is a historic temple in Madurai, Tamil Nadu, known for its intricate carvings and architecture.",
+                  "image":"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1haGFyYXN0cmElMjBkYXklMjBhcnN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Marina Beach",
+                  "description":"Marina Beach is a popular beach in Chennai, Tamil Nadu, known for its scenic beauty and vibrant atmosphere.",
+                  "image":"https://images.unsplash.com/photo-1611465751259-5d6c7f8b0e6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaW5hJTIwYmVhY2glMjBjaGFubmVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Brihadeeswarar Temple",
+                  "description":"Brihadeeswarar Temple is a UNESCO World Heritage site in Thanjavur, Tamil Nadu, which is known for its ancient architecture and sculptures.",
+                  "image":"https://images.unsplash.com/photo-1601876174075-7f7a2491c6e8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHRoYW5qYXZlJTIwYmVhY2glMjB0ZW1wbGF0ZXxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Ooty",
+                  "description":"Ooty is a popular hill station in Tamil Nadu, known for its scenic beauty and pleasant climate.",
+                  "image":"https://images.unsplash.com/photo-1559574383-5b4e5c52cd6a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fG9vdHklMjB5b3R5JTIwbmF0dXJlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Mahabalipuram",
+                  "description":"Mahabalipuram is a historic town in Tamil Nadu, known for its ancient temples and rock-cut sculptures.",
+                  "image":"https://images.unsplash.com/photo-1581291758257-cd08d9fcf0e3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFoYWJhbalBpcHVyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit the Nilgiri Mountains",
+                  "description":"Take a trip to the Nilgiri Mountains in Tamil Nadu and enjoy the scenic beauty of the hills and valleys.",
+                  "image":"https://images.unsplash.com/photo-1574839807997-7d3e4c1d5d21?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bmlsaWdyaSUyMG1vdW50YWluc3xlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore the Chettinad Region",
+                  "description":"Explore the Chettinad region in Tamil Nadu, known for its unique architecture, cuisine, and culture.",
+                  "image":"https://images.unsplash.com/photo-1602522986976-5b4e9d8eacca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZXR0aW5hZCUyMGNoZXR0aW5hZCUyMHN0YXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Visit the Pichavaram Mangrove Forest",
+                  "description":"Visit the Pichavaram Mangrove Forest in Tamil Nadu and explore the unique ecosystem of the mangroves.",
+                  "image":"https://images.unsplash.com/photo-1557247085-5c106a5b6f9c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuZ3JvdmUlMjBmb3Jlc3QlMjBwaWNoYXZhcm0lMjBtYW5nb3ZlJTIwZm9yZXN0JTIwcGlnaHRzJTIwdG9vbHxlbnwwfDB8MHx0ZXh0LWFsaWduZWQ%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Attend a Bharatanatyam Performance",
+                  "description":"Attend a Bharatanatyam performance in Tamil Nadu and experience the beauty of this classical dance form.",
+                  "image":"https://images.unsplash.com/photo-1606786325466-e7e9a4d5c6d9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmhhcmF0YW5hdHltYXRyYW18ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit the Vivekananda Rock Memorial",
+                  "description":"Visit the Vivekananda Rock Memorial in Kanyakumari, Tamil Nadu, and pay homage to Swami Vivekananda.",
+                  "image":"https://images.unsplash.com/photo-1560295706-554b7e4c7d9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlyZWthbmFuZGElMjByb2NrJTIwbWVtb3JpYWwlMjBrdW5haWt5dW1hcmljfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Pongal",
+                  "description":"Pongal is a four-day harvest festival celebrated in Tamil Nadu, which marks the beginning of the Tamil calendar year.",
+                  "image":"https://media.istockphoto.com/id/1338255082/photo/indian-festival-diwali-navratri-celebrations-vertical-picture-by-lighting-colourful-diya.webp?b=1&s=170667a&w=0&k=20&c=7pJ3IX3lDxN1mD8WpFfIjCe71AQojSVNMxEi8khXso4="
+               },
+               {
+                  "id":2,
+                  "name":"Madurai Meenakshi Temple Festival",
+                  "description":"The Madurai Meenakshi Temple Festival is a 10-day festival celebrated in Madurai, Tamil Nadu, which attracts thousands of pilgrims from all over India.",
+                  "image":"https://media.istockphoto.com/id/899627804/photo/meenakshi-temple.webp?b=1&s=170667a&w=0&k=20&c=9hL_fW9udvRy9GX0Omp7JwH6j8vggbNxkpwfSn0RJSE="
+               },
+               {
+                  "id":3,
+                  "name":"Natyanjali Dance Festival",
+                  "description":"The Natyanjali Dance Festival is a five-day dance festival held in Chidambaram, Tamil Nadu, which celebrates the classical dance form of Bharatanatyam.",
+                  "image":"data:image/jpeg;base64,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"
+               },
+               {
+                  "id":4,
+                  "name":"Mahamaham Festival",
+                  "description":"The Mahamaham Festival is a Hindu festival held in Kumbakonam, Tamil Nadu, which is celebrated once every 12 years and is considered to be very auspicious.",
+                  "image":"https://media.istockphoto.com/id/1444368725/photo/shri-airavatesvara-temple-is-a-hindu-temple-located-in-dharasuram-kumbakonam-tamil-nadu.webp?b=1&s=170667a&w=0&k=20&c=2DmOSCxqzxhmtvKkp9hGzlmHmvzSygBgN2oJ6tTKj7c="
+               },
+               {
+                  "id":5,
+                  "name":"Karthigai Deepam",
+                  "description":"Karthigai Deepam is a Hindu festival celebrated in Tamil Nadu, which involves lighting lamps and candles to signify the victory of good over evil.",
+                  "image":"https://media.istockphoto.com/id/1447296764/photo/may-the-lights-of-karthigai-deepam-illuminate-your-life-and-may-you-be-showered-with-lord.webp?b=1&s=170667a&w=0&k=20&c=wU0kHgVR4hmkdrCCLFQrloH4YtFKy6IWlfCxyh-8CSU="
+               }
+            ],
+            "facts":[
+               "Tamil Nadu is the 11th largest state in India by area.",
+               "The official language of Tamil Nadu is Tamil.",
+               "The literacy rate of Tamil Nadu is 80.3%.",
+               "Tamil Nadu has a population of over 77 million people.",
+               "Tamil Nadu shares its borders with Kerala, Karnataka, and Andhra Pradesh.",
+               "The famous Brihadeeswarar Temple in Thanjavur, Tamil Nadu, is a UNESCO World Heritage Site.",
+               "Tamil Nadu is known for its famous dish, the 'dosa'."
+            ]
+         },
+         {
+            "id":9,
+            "title":"Karnataka",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Bengaluru",
+                  "description":"Bengaluru, also known as Bangalore, is the capital and largest city of Karnataka."
+               },
+               {
+                  "id":2,
+                  "name":"Mysuru",
+                  "description":"Mysuru, also known as Mysore, is a city in Karnataka, known for its palaces and temples."
+               },
+               {
+                  "id":3,
+                  "name":"Hubli-Dharwad",
+                  "description":"Hubli-Dharwad is a twin city in Karnataka, known for its industries and educational institutions."
+               },
+               {
+                  "id":4,
+                  "name":"Mangaluru",
+                  "description":"Mangaluru, also known as Mangalore, is a coastal city in Karnataka, known for its beaches and seafood."
+               },
+               {
+                  "id":5,
+                  "name":"Belagavi",
+                  "description":"Belagavi, also known as Belgaum, is a city in Karnataka, known for its historical sites and temples."
+               },
+               {
+                  "id":6,
+                  "name":"Shivamogga",
+                  "description":"Shivamogga, also known as Shimoga, is a city in Karnataka, known for its natural beauty and waterfalls."
+               }
+            ],
+            "about":"Karnataka is a state in southwest India, with Bengaluru as its capital. The state has a rich cultural heritage and is known for its historical sites, such as Hampi and Mysore Palace. Karnataka is also known for its industries, such as software and biotechnology.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Hampi",
+                  "description":"Hampi is a UNESCO World Heritage site in Karnataka, which was the capital of the Vijayanagara Empire in the 14th century.",
+                  "image":"https://images.unsplash.com/photo-1576509383469-7f3f63e3f5c1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhhbXBpfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Mysore Palace",
+                  "description":"Mysore Palace is a historic palace in Mysuru, Karnataka, which was the residence of the Wodeyar dynasty.",
+                  "image":"https://images.unsplash.com/photo-1578635803121-4d9d9e7b4c6f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bXlzb3JlJTIwcGFsYWNlfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Coorg",
+                  "description":"Coorg is a hill station in Karnataka, known for its coffee plantations and scenic beauty.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Gokarna",
+                  "description":"Gokarna is a coastal town in Karnataka, known for its beaches and temples.",
+                  "image":"https://images.unsplash.com/photo-1605091420236-5b4e2a7c6d24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z29rYXJuYXxlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Bandipur National Park",
+                  "description":"Bandipur National Park is a wildlife sanctuary in Karnataka, which is home to tigers, elephants and other animals.",
+                  "image":"https://images.unsplash.com/photo-1543363135-a86c982fcfe5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZGlwdXIlMjBuYXRpb25hbCUyMHBhcmtrJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJrJTIwd2lkbGlhdGVkJTIwZm9yJTIwdGhlJTIwbmF0aW9uYWwlMjBwYXJr"
+               },
+               {
+                  "id":6,
+                  "name":"Chikmagalur",
+                  "description":"Chikmagalur is a hill station in Karnataka, known for its coffee plantations and trekking trails.",
+                  "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trekking in Western Ghats",
+                  "description":"Go trekking in the Western Ghats in Karnataka and experience the natural beauty of the region.",
+                  "image":"https://images.unsplash.com/photo-1605192404511-4d5f46c7d5d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdlc3Rlcm4lMjBnaGF0c3xlbnwwfDB8MHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Visit Shravanabelagola",
+                  "description":"Visit Shravanabelagola in Karnataka and see the famous statue of Gommateshwara, which is one of the largest monolithic statues in the world.",
+                  "image":"https://images.unsplash.com/photo-1559365811-3f7e4c3d6e4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpa21hZ2FsdXIlMjBjb2ZmZWUlMjBwbGFuYXRpb25zfGVufDB8MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Explore Badami Caves",
+                  "description":"Explore the Badami Caves in Karnataka, which are ancient rock-cut temples and are believed to be built during the Chalukya dynasty.",
+                  "image":"https://images.unsplash.com/photo-1599736056616-12b6d9e6b6b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmFkYW1pJTIwY2F2ZXN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Jog Falls",
+                  "description":"Visit Jog Falls in Karnataka, which is one of the highest waterfalls in India and is located in the Shimoga district.",
+                  "image":"https://images.unsplash.com/photo-1497316730643-415fac54a2af?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8am9nJTIwZmFsbHN8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit Srirangapatna",
+                  "description":"Visit Srirangapatna in Karnataka, which was the capital of the Mysore kingdom and is known for its historical sites.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Visit Coorg",
+                  "description":"Visit Coorg in Karnataka and experience the scenic beauty of the region, along with its coffee plantations and waterfalls.",
+                  "image":"https://images.unsplash.com/photo-1603136660070-3a7d15c7f0e7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29vcmd8ZW58MHwwfDB8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Karnataka is the 6th largest state in India by area.",
+               "The official language of Karnataka is Kannada.",
+               "The literacy rate of Karnataka is 75.60%.",
+               "Karnataka has a population of over 61 million people.",
+               "The state of Karnataka was formed on November 1, 1956.",
+               "Karnataka shares its borders with Maharashtra, Goa, Andhra Pradesh, Tamil Nadu, and Kerala.",
+               "The capital city of Karnataka is Bengaluru, which is also known as the 'Silicon Valley of India'.",
+               "Karnataka is known for its rich cultural heritage, which includes classical music, dance, and literature."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Mysuru Dasara",
+                  "description":"Mysuru Dasara is a 10-day festival in Karnataka, which celebrates the victory of good over evil and is known for its grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1634481031149-3c1a9ebd4f0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fG15c3VydSUyMGRhc2FyYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Hampi Utsav",
+                  "description":"Hampi Utsav is a 3-day festival in Karnataka, which celebrates the rich heritage and culture of the Hampi region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1513618364587-a5b0b9bcb986?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFtcGklMjB1dHNhdnxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Karaga Festival",
+                  "description":"Karaga Festival is a 9-day festival in Karnataka, which is celebrated in honor of the Hindu goddess Draupadi and includes a grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Ugadi",
+                  "description":"Ugadi is the New Year's Day for the people of Karnataka and is celebrated with traditional rituals and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Holi",
+                  "description":"Holi is a popular festival in Karnataka, which is celebrated with colors and water and is known for its fun and festive atmosphere.",
+                  "image":"https://images.unsplash.com/photo-1614006500674-aca02c7b7c52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9saSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ]
+         },
+         {
+            "id":10,
+            "title":"Andhra Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Visakhapatnam",
+                  "description":"Visakhapatnam is a port city on the southeast coast of India, known for its beaches, temples, and museums.",
+                  "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Tirupati",
+                  "description":"Tirupati is a holy city in Andhra Pradesh, known for its Sri Venkateswara Temple, which is one of the most visited pilgrimage sites in the world.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Vijayawada",
+                  "description":"Vijayawada is a city in Andhra Pradesh, known for its Kanaka Durga Temple and Prakasam Barrage.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Guntur",
+                  "description":"Guntur is a city in Andhra Pradesh, known for its spicy food, historic temples, and parks.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Kurnool",
+                  "description":"Kurnool is a city in Andhra Pradesh, known for its historic forts, temples, and natural beauty.",
+                  "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Sri Venkateswara Temple",
+                  "description":"Sri Venkateswara Temple is a Hindu temple in Tirupati, Andhra Pradesh, dedicated to Lord Venkateswara.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Borra Caves",
+                  "description":"Borra Caves are natural caves in the Ananthagiri Hills of Andhra Pradesh, known for their limestone formations and stalactites.",
+                  "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kondapalli Fort",
+                  "description":"Kondapalli Fort is a historic fort in Andhra Pradesh, known for its architecture and scenic views.",
+                  "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Belum Caves",
+                  "description":"Belum Caves are natural caves in Andhra Pradesh, known for their stalactite and stalagmite formations.",
+                  "image":"https://images.unsplash.com/photo-1604011484020-3e4f76a7e9c4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGtvbmRhcGlsbGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Kuchipudi Dance",
+                  "description":"Kuchipudi is a classical dance form of Andhra Pradesh, known for its intricate footwork and expressions.",
+                  "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "things_to_do":[
+               {
+                  "id":1,
+                  "name":"Visit the beaches of Visakhapatnam",
+                  "description":"Visakhapatnam is known for its beautiful beaches, such as Rishikonda Beach, Yarada Beach, and Rushikonda Beach.",
+                  "image":"https://images.unsplash.com/photo-1620918031397-a6dfbce9b57d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Ym9ycmElMjBjYXZlc3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore the history of Tirupati",
+                  "description":"Tirupati has a rich history and is home to many historic sites, such as Sri Venkateswara Temple, Sri Kapileswara Swamy Temple, and Sri Govindarajaswami Temple.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Taste the spicy food of Guntur",
+                  "description":"Guntur is known for its spicy food, such as Guntur chilli chicken, Gongura pickle, and Mirchi bajji.",
+                  "image":"https://images.unsplash.com/photo-1621599425809-69c7e0f7a9a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmlqYXlhd2FkYXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Go on a nature walk in Kurnool",
+                  "description":"Kurnool is known for its natural beauty and is home to many parks and gardens, such as Oravakallu Rock Garden, Rollapadu Wildlife Sanctuary, and Mahanandi.",
+                  "image":"https://images.unsplash.com/photo-1573584373611-fb7e6b0d3c7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a3Vybm9vbCUyMGZvcnRzJTIwbmF0dXJhbCUyMGJlYXV0eXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Watch a Kuchipudi dance performance",
+                  "description":"Kuchipudi is a classical dance form of Andhra Pradesh and is performed at many cultural events and festivals.",
+                  "image":"https://images.unsplash.com/photo-1619942408886-7d71f5a0c9a0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a3VjaGlwdWRpJTIwZGFuY2VzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "facts":[
+               "Andhra Pradesh is the 8th largest state in India by area.",
+               "The official language of Andhra Pradesh is Telugu.",
+               "The literacy rate of Andhra Pradesh is 67.4%.",
+               "Andhra Pradesh has a population of over 54 million people.",
+               "The state of Andhra Pradesh was formed on October 1, 1953.",
+               "Andhra Pradesh shares its borders with Telangana, Karnataka, Tamil Nadu, and Odisha.",
+               "The capital city of Andhra Pradesh is Amaravati, which is also known as the 'People's Capital'.",
+               "Andhra Pradesh is known for its rich cultural heritage, which includes Kuchipudi dance and Telugu literature."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ugadi",
+                  "description":"Ugadi is the New Year's Day for the people of Andhra Pradesh and is celebrated with traditional rituals and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1586078509559-bf5a6c9d5c7e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWdhZGl8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Lumbini Festival",
+                  "description":"Lumbini Festival is a 3-day festival in Andhra Pradesh, which celebrates the Buddhist heritage of the state and includes cultural performances and food stalls.",
+                  "image":"https://images.unsplash.com/photo-1603185548446-eeb7b9b7ce0d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bHVtYmluaSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Visakha Utsav",
+                  "description":"Visakha Utsav is a 3-day festival in Andhra Pradesh, which celebrates the cultural heritage of the Visakhapatnam region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1590773693195-5e13d6bd4c31?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzYWtoYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Deccan Festival",
+                  "description":"Deccan Festival is a 5-day festival in Andhra Pradesh, which celebrates the rich heritage and culture of the Deccan region and includes cultural performances, food stalls, and a handicrafts fair.",
+                  "image":"https://images.unsplash.com/photo-1618530865794-0d5d6e9f60e4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGthcmFnYSUyMGZlc3RpdmFsJTIwaW5kaWNhdGVzfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Brahmotsavam",
+                  "description":"Brahmotsavam is a 9-day festival in Andhra Pradesh, which celebrates the Hindu god Venkateswara and includes a grand procession and cultural events.",
+                  "image":"https://images.unsplash.com/photo-1601185038775-5c9a4e1c4a4c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHZlbmthdGVzd2FyYXN2YXJhfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ]
+         },
+         {
+            "id":11,
+            "title":"Tripura",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Agartala",
+                  "description":"Agartala is the capital and largest city of Tripura."
+               },
+               {
+                  "id":2,
+                  "name":"Udaipur",
+                  "description":"Udaipur is a city in Tripura, known for its ancient temples and lakes."
+               },
+               {
+                  "id":3,
+                  "name":"Belonia",
+                  "description":"Belonia is a city in Tripura, famous for its natural beauty and wildlife."
+               },
+               {
+                  "id":4,
+                  "name":"Dharmanagar",
+                  "description":"Dharmanagar is a city in Tripura, known for its historical significance and temples."
+               },
+               {
+                  "id":5,
+                  "name":"Kailashahar",
+                  "description":"Kailashahar is a city in Tripura, famous for its scenic beauty and waterfalls."
+               }
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Neermahal Palace",
+                  "description":"Neermahal Palace is a beautiful palace located in the middle of Rudrasagar Lake in Tripura.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Tripura Sundari Temple",
+                  "description":"Tripura Sundari Temple is a famous Hindu temple located in Udaipur, Tripura.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Unakoti",
+                  "description":"Unakoti is an ancient pilgrimage site in Tripura, known for its rock-cut sculptures and carvings.",
+                  "image":"https://images.unsplash.com/photo-1592073720779-1b5b5b5c7e45?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5ha290aSUyMHNjaGVkdWxlcnxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Sepahijala Wildlife Sanctuary",
+                  "description":"Sepahijala Wildlife Sanctuary is a nature reserve in Tripura, known for its rich biodiversity and wildlife.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Jampui Hills",
+                  "description":"Jampui Hills is a scenic hill station in Tripura, known for its beautiful landscapes and panoramic views.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Boating in Rudrasagar Lake",
+                  "description":"Take a boat ride on Rudrasagar Lake and enjoy the scenic beauty of Tripura.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmVlcm1haGFsJTIwcGFsYWNlJTIwbGlzdHxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Visit the Ujjayanta Palace",
+                  "description":"Explore the beautiful Ujjayanta Palace, a former royal palace that has been converted into a museum.",
+                  "image":"https://images.unsplash.com/photo-1538122538818-ab5426a4d5ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWpqYXlhbnRhaSUyMHBhbGFjZSUyMGxpc3R8ZW58MHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Trekking in Jampui Hills",
+                  "description":"Go trekking in Jampui Hills and enjoy the scenic beauty of the hill station.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Visit Tripura Sundari Temple",
+                  "description":"Visit the famous Tripura Sundari Temple and experience the spiritual side of Tripura.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Explore the Sepahijala Wildlife Sanctuary",
+                  "description":"Explore the rich biodiversity and wildlife of Tripura at the Sepahijala Wildlife Sanctuary.",
+                  "image":"https://images.unsplash.com/photo-1606794130459-1c5c2a2e8a1c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJpcHVyYSUyIHN1bmRhcml0eSUyIHRlbXBsZXxlbnwwfDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+               }
+            ],
+            "about":"Tripura is a state located in northeastern India, bordered by Bangladesh on three sides. It is the third-smallest state in the country. Agartala serves as the capital city and the largest urban center in Tripura. The state is known for its rich cultural heritage, diverse ethnic communities, and natural beauty. Tripura is home to several indigenous tribes, each with its distinct traditions, festivals, and crafts. The state's economy is primarily based on agriculture, with rice being the main crop. Tripura also has significant reserves of natural gas, making it one of the leading gas-producing states in India. The state offers several attractions for tourists, including historical sites, wildlife sanctuaries, scenic landscapes, and traditional handicrafts. It is a land of colorful festivals, with events like Durga Puja and Diwali being celebrated with great enthusiasm. Tripura provides a unique blend of traditional and modern elements, making it a fascinating destination for travelers seeking cultural experiences and natural beauty.",
+            "facts":[
+               "Tripura is the third-smallest state in India.",
+               "The official languages of Tripura are Bengali and Kokborok.",
+               "Tripura has a rich cultural heritage with various indigenous tribes and their unique traditions.",
+               "The state is known for its lush green landscapes, rolling hills, and beautiful valleys.",
+               "Tripura is famous for its bamboo and cane handicrafts, which are popularly exported.",
+               "Neermahal, located in the middle of Rudrasagar Lake, is one of the only two water palaces in India and is a major tourist attraction in Tripura."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Ker Puja",
+                  "description":"Ker Puja is a significant tribal festival celebrated by the Tripuri community to appease the gods and goddesses for a good harvest.",
+                  "image":"https://images.unsplash.com/photo-1575715732134-d883f1f94c84?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Kharchi Puja",
+                  "description":"Kharchi Puja is a week-long festival celebrated at the Chaturdasha Devata Temple in Agartala, where deities are worshiped to seek blessings for the well-being of the people.",
+                  "image":"https://images.unsplash.com/photo-1578257986801-9713d5a3b057?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Bizu Festival",
+                  "description":"Bizu Festival is celebrated by the Chakma community to mark the beginning of their new year. It involves various cultural performances, traditional games, and feasts.",
+                  "image":"https://images.unsplash.com/photo-1624923344566-8f1ff2fe5a33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Durga Puja",
+                  "description":"Durga Puja is one of the major festivals celebrated with great enthusiasm in Tripura. It involves elaborate decorations, cultural performances, and the worship of Goddess Durga.",
+                  "image":"https://images.unsplash.com/photo-1569935810493-703cd161f44f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Diwali",
+                  "description":"Diwali, the festival of lights, is celebrated with joy and enthusiasm in Tripura. It involvesvarious religious rituals, lighting of diyas (oil lamps), bursting of firecrackers, exchanging sweets, and decorating homes."
+               }
+            ]
+         },
+         {
+            "id":12,
+            "title":"Jammu and Kashmir",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Srinagar",
+                  "description":"Srinagar is the summer capital of Jammu and Kashmir, known for its beautiful Dal Lake and Mughal gardens."
+               },
+               {
+                  "id":2,
+                  "name":"Jammu",
+                  "description":"Jammu is the winter capital of Jammu and Kashmir, famous for its ancient temples and historical sites."
+               },
+               {
+                  "id":3,
+                  "name":"Leh",
+                  "description":"Leh is a popular tourist destination in Ladakh, known for its stunning landscapes, monasteries, and adventure activities."
+               },
+               {
+                  "id":4,
+                  "name":"Gulmarg",
+                  "description":"Gulmarg is a picturesque hill station in Kashmir, renowned for its skiing slopes and beautiful meadows."
+               },
+               {
+                  "id":5,
+                  "name":"Pahalgam",
+                  "description":"Pahalgam is a scenic town in Kashmir, famous for its lush green valleys, pristine rivers, and trekking opportunities."
+               },
+               {
+                  "id":6,
+                  "name":"Sonamarg",
+                  "description":"Sonamarg, also known as the 'Meadow of Gold,' is a mesmerizing hill station in Kashmir, surrounded by snow-capped mountains and alpine meadows."
+               }
+            ],
+            "about":"Jammu and Kashmir is a union territory in northern India, known for its breathtaking landscapes, rich cultural heritage, and religious significance. The region is renowned for its scenic beauty, including the stunning Dal Lake, snow-clad mountains, and lush green valleys. Jammu and Kashmir offer a diverse range of attractions, such as ancient temples, monasteries, adventure sports, and traditional Kashmiri handicrafts.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Dal Lake",
+                  "description":"Dal Lake is a famous lake in Srinagar, known for its mesmerizing beauty, houseboats, and shikara rides.",
+                  "image":"https://images.unsplash.com/photo-1569466896819-33506953a0e4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Vaishno Devi Temple",
+                  "description":"Vaishno Devi Temple is a renowned Hindu pilgrimage site in Jammu, dedicated to the goddess Vaishno Devi.",
+                  "image":"https://images.unsplash.com/photo-1622406615106-03c477d6ff20?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Magnetic Hill",
+                  "description":"Magnetic Hill is a unique natural phenomenon near Leh, where vehicles appear to defy gravity and move uphill on their own.",
+                  "image":"https://images.unsplash.com/photo-1607689300515-9ecde4b778e1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Shankaracharya Temple",
+                  "description":"Shankaracharya Temple is a prominent Hindu temple located on top of a hill in Srinagar, offering panoramic views of the city.",
+                  "image":"https://images.unsplash.com/photo-1602538997395-5ad737fd2f4a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Gulmarg Gondola",
+                  "description":"Gulmarg Gondola is one of the highest cable car systems in the world, offering breathtaking views of the Himalayan peaks.",
+                  "image":"https://images.unsplash.com/photo-1607869125001-70c5f27048a4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":6,
+                  "name":"Aru Valley",
+                  "description":"Aru Valley is a serene and picturesque valley near Pahalgam, known for its pristine beauty and lush meadows.",
+                  "image":"https://images.unsplash.com/photo-1567064151049-41bc4dce6fc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Tulip Festival",
+                  "description":"The Tulip Festival is held in Srinagar every spring when the tulip gardens are in full bloom, showcasing a vibrant display of flowers.",
+                  "date":"April",
+                  "image":"https://images.unsplash.com/photo-1585475021639-12dd5a1e9a9f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Hemis Festival",
+                  "description":"Hemis Festival is a popular cultural event celebrated in the Hemis Monastery in Leh, featuring masked dances and music performances.",
+                  "date":"June/July",
+                  "image":"https://images.unsplash.com/photo-1573298189620-715b15c9d95b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Kheer Bhawani Mela",
+                  "description":"Kheer Bhawani Mela is a major religious festival held at the Kheer Bhawani Temple near Srinagar, attracting devotees from all over.",
+                  "date":"May/June",
+                  "image":"https://images.unsplash.com/photo-1591700115369-f0c41d809af3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
+               }
+            ],
+            "facts":[
+               "Jammu and Kashmir is often referred to as the 'Paradise on Earth' due to its stunning natural beauty.",
+               "The region is known for its rich heritage of traditional Kashmiri cuisine, including delicacies like Rogan Josh and Kashmiri Pulao.",
+               "Jammu and Kashmir is home to several ancient temples, mosques, and monasteries, reflecting its diverse religious and cultural heritage.",
+               "The Dal Lake in Srinagar is famous for its picturesque houseboats, known as 'Shikaras', offering a unique and tranquil experience for visitors.",
+               "The region is a popular destination for adventure enthusiasts, with activities like trekking, skiing, river rafting, and paragliding available in various parts of the state.",
+               "Jammu and Kashmir is known for its exquisite handcrafted products, including Pashmina shawls, carpets, and intricately designed Kashmiri embroidery.",
+               "The state is surrounded by the Himalayan mountain range, offering breathtaking landscapes, snow-capped peaks, and serene valleys.",
+               "Jammu and Kashmir has a rich history, with influences from various dynasties and empires, including the Mughals, Sikhs, and Dogras."
+            ]
+         },
+         {
+            "id":13,
+            "title":"Uttar Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Lucknow",
+                  "description":"Lucknow is the capital city of Uttar Pradesh, known for its rich cultural heritage and architectural marvels like the Bara Imambara and Rumi Darwaza."
+               },
+               {
+                  "id":2,
+                  "name":"Agra",
+                  "description":"Agra is famous for the iconic Taj Mahal, a UNESCO World Heritage Site, and other historical landmarks like the Agra Fort and Fatehpur Sikri."
+               },
+               {
+                  "id":3,
+                  "name":"Varanasi",
+                  "description":"Varanasi, also known as Kashi, is one of the oldest living cities in the world and a major pilgrimage site for Hindus. It is famous for its ghats along the sacred River Ganges."
+               },
+               {
+                  "id":4,
+                  "name":"Kanpur",
+                  "description":"Kanpur is a major industrial city in Uttar Pradesh, known for its textile and leather industries. It is also home to the famous Kanpur Memorial Church and the Allen Forest Zoo."
+               },
+               {
+                  "id":5,
+                  "name":"Allahabad",
+                  "description":"Allahabad, officially known as Prayagraj, is a holy city in Uttar Pradesh. It is famous for the Triveni Sangam, the confluence of the Ganges, Yamuna, and mythical Saraswati rivers."
+               },
+               {
+                  "id":6,
+                  "name":"Varanasi",
+                  "description":"Mathura is a sacred city in Uttar Pradesh, believed to be the birthplace of Lord Krishna. It is known for its Krishna Janmabhoomi temple and vibrant Holi celebrations."
+               }
+            ],
+            "about":"Uttar Pradesh is the most populous state in India and is located in the northern part of the country. It is known for its rich historical and cultural heritage, with several iconic landmarks and religious sites. The state has a diverse landscape, ranging from the fertile plains of the Gangetic plain to the foothills of the Himalayas. Uttar Pradesh is renowned for its vibrant festivals, arts, literature, and cuisine.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Taj Mahal",
+                  "description":"The Taj Mahal is an iconic white marble mausoleum in Agra, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered a masterpiece of Mughal architecture.",
+                  "image":"https://images.unsplash.com/photo-1550304788-27df8eb9bf9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Bara Imambara",
+                  "description":"Bara Imambara is a historical monument in Lucknow, known for its unique architecture and the Bhool Bhulaiya labyrinth. It is a significant landmark of Awadh architecture.",
+                  "image":"https://images.unsplash.com/photo-1634074237907-13357c67c4e0?ixid=MnwxMjA3fDB8MHxwaG90"
+               },
+               {
+                  "id":3,
+                  "name":"Kashi Vishwanath Temple",
+                  "description":"Kashi Vishwanath Temple is a famous Hindu temple dedicated to Lord Shiva in Varanasi. It is one of the holiest pilgrimage sites for Hindus and attracts millions of devotees every year.",
+                  "image":"https://images.unsplash.com/photo-1579503781505-736af4641692?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Allahabad Fort",
+                  "description":"Allahabad Fort is a majestic fort situated on the banks of the Yamuna River in Allahabad. It was built by Emperor Akbar and offers panoramic views of the surrounding area.",
+                  "image":"https://images.unsplash.com/photo-1530883377402-51e81079c1ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=80"
+               }
+            ],
+            "facts":[
+               "Uttar Pradesh is the most populous state in India.",
+               "It is the fourth-largest state in terms of area.",
+               "The state has a rich cultural heritage and is known for its historical monuments and architectural wonders.",
+               "Uttar Pradesh is the birthplace of Lord Rama and Lord Krishna, two prominent figures in Hindu mythology.",
+               "The state is famous for its traditional arts and crafts, including the intricate Lucknowi Chikankari embroidery and Banarasi silk sarees."
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Kumbh Mela",
+                  "description":"Kumbh Mela is a major Hindu pilgrimage and one of the largest religious gatherings in the world. It is held every 12 years in different cities of Uttar Pradesh, including Allahabad, Haridwar, Nashik, and Ujjain.",
+                  "image":"https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Taj Mahotsav",
+                  "description":"Taj Mahotsav is an annual cultural festival held in Agra, Uttar Pradesh. It showcases the rich heritage, arts, crafts, music, and dance of the region.",
+                  "image":"https://images.unsplash.com/photo-1585276568829-4473de9c7ea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Ayodhya Ram Navami Mela",
+                  "description":"Ayodhya Ram Navami Mela is a grand celebration of Lord Rama's birth anniversary in Ayodhya, Uttar Pradesh. The city is believed to be the birthplace of Lord Rama, and the festival attracts devotees from all over the country.",
+                  "image":"https://images.unsplash.com/photo-1585832635071-661f9f827a3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Lucknow Mahotsav",
+                  "description":"Lucknow Mahotsav is a 10-day cultural extravaganza held in Lucknow, Uttar Pradesh. It showcases the vibrant arts, crafts, music, dance, and cuisine of the region.",
+                  "image":"https://images.unsplash.com/photo-1599639637116-3b6f4780b3f2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Varanasi Ganga Aarti",
+                  "description":"Varanasi Ganga Aarti is a mesmerizing ritual held on the banks of the River Ganges in Varanasi, Uttar Pradesh. Devotees gather to witness the evening prayer ceremony, where lamps are lit and offered to the river as an act of worship.",
+                  "image":"https://images.unsplash.com/photo-1572732533814-cc68aefcaa88?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Visit the Taj Mahal",
+                  "description":"Explore the iconic Taj Mahal in Agra, a UNESCO World Heritage site and one of the Seven Wonders of the World. Admire its stunning architecture and learn about the love story behind its creation.",
+                  "image":"https://images.unsplash.com/photo-1553642636-22ab7efa89e6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":2,
+                  "name":"Explore Varanasi",
+                  "description":"Experience the spiritual city of Varanasi, situated on the banks of the sacred River Ganges. Witness the mesmerizing Ganga Aarti, take a boat ride along the ghats, and visit ancient temples.",
+                  "image":"https://images.unsplash.com/photo-1542181961-9590d0c58a68?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":3,
+                  "name":"Discover the Heritage of Lucknow",
+                  "description":"Immerse yourself in the cultural heritage of Lucknow, known for its architectural marvels like Bara Imambara and Chota Imambara. Indulge in the city's famous Awadhi cuisine and explore its vibrant markets.",
+                  "image":"https://images.unsplash.com/photo-1551836596-4f3efdd280ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":4,
+                  "name":"Wildlife Safari in Dudhwa National Park",
+                  "description":"Embark on an exciting wildlife safari in Dudhwa National Park, located in the Terai region of Uttar Pradesh. Spot majestic tigers, rhinoceros, elephants, and various bird species in their natural habitat.",
+                  "image":"https://images.unsplash.com/photo-1542282088-3aabe618c6c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id":5,
+                  "name":"Visit the City of Nawabs - Faizabad",
+                  "description":"Explore the historical city of Faizabad, known for its architectural gems like the Faizabad Fort and the Gulab Bari mausoleum. Learn about the cultural significance of the city and enjoy its serene ambiance.",
+                  "image":"https://images.unsplash.com/photo-1558055717-9ddcf755aafe?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               }
+            ]
+         },
+         {
+            "id":14,
+            "title":"Rajasthan",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Jaipur",
+                  "description":"Jaipur is the capital city of Rajasthan, known as the 'Pink City' due to its pink-colored buildings."
+               },
+               {
+                  "id":2,
+                  "name":"Udaipur",
+                  "description":"Udaipur is a city in Rajasthan, famous for its beautiful lakes, palaces, and romantic ambiance."
+               },
+               {
+                  "id":3,
+                  "name":"Jodhpur",
+                  "description":"Jodhpur is a city in Rajasthan, known for its magnificent forts, palaces, and vibrant culture."
+               },
+               {
+                  "id":4,
+                  "name":"Jaisalmer",
+                  "description":"Jaisalmer is a city in Rajasthan, famous for its golden sand dunes, magnificent forts, and camel safaris."
+               },
+               {
+                  "id":5,
+                  "name":"Pushkar",
+                  "description":"Pushkar is a holy city in Rajasthan, known for its sacred Pushkar Lake and the annual Pushkar Camel Fair."
+               },
+               {
+                  "id":6,
+                  "name":"Ajmer",
+                  "description":"Ajmer is a city in Rajasthan, famous for the Ajmer Sharif Dargah, a Sufi shrine visited by devotees from different faiths."
+               }
+            ],
+            "about":"Rajasthan is a state in northern India, known for its rich history, vibrant culture, and stunning architecture. It is famous for its majestic palaces, magnificent forts, colorful festivals, and warm hospitality. Rajasthan offers a unique blend of natural beauty, desert landscapes, and royal heritage.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Amber Fort",
+                  "description":"Amber Fort is a magnificent fort complex located in Jaipur, Rajasthan, known for its impressive architecture and artistic elements."
+               },
+               {
+                  "id":2,
+                  "name":"Hawa Mahal",
+                  "description":"Hawa Mahal is a famous palace in Jaipur, Rajasthan, known for its unique honeycomb-like structure and numerous small windows."
+               },
+               {
+                  "id":3,
+                  "name":"Lake Palace",
+                  "description":"Lake Palace is a beautiful palace located in Udaipur, Rajasthan, situated on an island in Lake Pichola, offering breathtaking views."
+               },
+               {
+                  "id":4,
+                  "name":"Jaisalmer Fort",
+                  "description":"Jaisalmer Fort is a massive fortification in Jaisalmer, Rajasthan, known for its yellow sandstone walls and stunning architecture."
+               },
+               {
+                  "id":5,
+                  "name":"Mehrangarh Fort",
+                  "description":"Mehrangarh Fort is a historic fort in Jodhpur, Rajasthan, known for its imposing structure and panoramic views of the city."
+               },
+               {
+                  "id":6,
+                  "name":"Pushkar Lake",
+                  "description":"Pushkar Lake is a sacred lake in Pushkar, Rajasthan, believed to be created by Lord Brahma and is an important pilgrimage site."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Camel Safari in Thar Desert",
+                  "description":"Experience the thrill of a camel safari in the Thar Desert, exploring the sand dunes and enjoying the Rajasthani culture."
+               },
+               {
+                  "id":2,
+                  "name":"Visit the City Palace",
+                  "description":"Explore the grandeur of the City Palace in Jaipur, a magnificent palace complex showcasing Rajput and Mughal architecture."
+               },
+               {
+                  "id":3,
+                  "name":"Attend the Pushkar Camel Fair",
+                  "description":"Participate in the vibrant Pushkar Camel Fair, a famous annual livestock fair featuring camel races, cultural events, and more."
+               },
+               {
+                  "id":4,
+                  "name":"Explore the Blue City of Jodhpur",
+                  "description":"Discover the vibrant blue-painted houses and narrow streets of Jodhpur, also known as the Blue City of Rajasthan."
+               },
+               {
+                  "id":5,
+                  "name":"Shop for Traditional Handicrafts",
+                  "description":"Indulge in shopping for traditional handicrafts like textiles, pottery, jewelry, and paintings in the bustling markets of Rajasthan."
+               },
+               {
+                  "id":6,
+                  "name":"Witness the Elephant Festival",
+                  "description":"Experience the grandeur of the Elephant Festival in Jaipur, featuring beautifully decorated elephants, cultural performances, and more."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Jaipur Literature Festival",
+                  "description":"The Jaipur Literature Festival is a renowned literary event held annually in Jaipur, attracting writers, thinkers, and literature enthusiasts from around the world.",
+                  "image":""
+               },
+               {
+                  "id":2,
+                  "name":"Pushkar Camel Fair",
+                  "description":"The Pushkar Camel Fair is a famous cultural and livestock fair held in Pushkar, Rajasthan, featuring camel races, music, dance, and trading",
+                  "image":""
+               },
+               {
+                  "id":3,
+                  "name":"Desert Festival",
+                  "description":"The Desert Festival is a vibrant cultural event held in Jaisalmer, Rajasthan, showcasing folk music and dance performances, camel races, and other traditional activities.",
+                  "image":""
+               },
+               {
+                  "id":4,
+                  "name":"Kite Festival",
+                  "description":"The Kite Festival, also known as Makar Sankranti, is celebrated with great enthusiasm in Rajasthan, where people fly colorful kites and engage in friendly kite-flying competitions.",
+                  "image":""
+               },
+               {
+                  "id":5,
+                  "name":"Teej Festival",
+                  "description":"Teej Festival is a significant celebration in Rajasthan, especially for women, featuring traditional dance, singing, swings, and applying henna designs.",
+                  "image":""
+               },
+               {
+                  "id":6,
+                  "name":"Gangaur Festival",
+                  "description":"Gangaur Festival is a colorful women-centric festival celebrated in Rajasthan, honoring the goddess Gauri with processions, music, and dancing.",
+                  "image":""
+               }
+            ],
+            "facts":[
+               "Rajasthan is known as the 'Land of Kings' due to its rich history of Rajputana kingdoms.",
+               "The Thar Desert, also known as the Great Indian Desert, is located in Rajasthan.",
+               "Rajasthan is home to several magnificent forts and palaces that showcase the architectural brilliance of the region.",
+               "The state of Rajasthan is famous for its traditional art forms, such as miniature paintings, puppetry, and folk music.",
+               "Rajasthan is known for its delicious cuisine, including popular dishes like dal bati churma, gatte ki sabzi, and laal maas.",
+               "Rajasthan is a popular destination for wildlife enthusiasts, with several national parks and sanctuaries, including Ranthambore National Park and Sariska Tiger Reserve."
+            ]
+         },
+         {
+            "id":2,
+            "title":"Madhya Pradesh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Bhopal",
+                  "description":"Bhopal is the capital and largest city of Madhya Pradesh."
+               },
+               {
+                  "id":2,
+                  "name":"Indore",
+                  "description":"Indore is the largest city in Madhya Pradesh and known for its vibrant food scene."
+               },
+               {
+                  "id":3,
+                  "name":"Gwalior",
+                  "description":"Gwalior is a historic city in Madhya Pradesh, known for its magnificent Gwalior Fort."
+               },
+               {
+                  "id":4,
+                  "name":"Jabalpur",
+                  "description":"Jabalpur is a city in Madhya Pradesh, famous for its marble rock formations and Dhuandhar Waterfall."
+               },
+               {
+                  "id":5,
+                  "name":"Ujjain",
+                  "description":"Ujjain is an ancient city in Madhya Pradesh, known for its religious significance and Kumbh Mela."
+               },
+               {
+                  "id":6,
+                  "name":"Khajuraho",
+                  "description":"Khajuraho is a UNESCO World Heritage site in Madhya Pradesh, renowned for its intricately carved temples."
+               }
+            ],
+            "about":"Madhya Pradesh, located in central India, is known for its rich history, diverse culture, and architectural wonders. The state is home to numerous ancient temples, UNESCO World Heritage sites, and wildlife sanctuaries. Madhya Pradesh offers a blend of natural beauty, historical landmarks, and spiritual experiences.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Kanha National Park",
+                  "description":"Kanha National Park is one of the largest tiger reserves in India and a popular wildlife destination in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1613217197043-c6346d9b63c5"
+               },
+               {
+                  "id":2,
+                  "name":"Sanchi Stupa",
+                  "description":"Sanchi Stupa is a UNESCO World Heritage site and an important Buddhist monument in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1598037595710-f1dced99f7f3"
+               },
+               {
+                  "id":3,
+                  "name":"Gwalior Fort",
+                  "description":"Gwalior Fort is a majestic hilltop fort in Gwalior, known for its stunning architecture and panoramic views.",
+                  "image":"https://images.unsplash.com/photo-1600258142755-540ceabb1a0b"
+               },
+               {
+                  "id":4,
+                  "name":"Bhimbetka Caves",
+                  "description":"Bhimbetka Caves are a UNESCO World Heritage site and showcase prehistoric rock art in Madhya Pradesh.",
+                  "image":"https://images.unsplash.com/photo-1599475237786-8aeb0af5e4c9"
+               },
+               {
+                  "id":5,
+                  "name":"Khajuraho Temples",
+                  "description":"Khajuraho Temples are a group of magnificent temples known for their erotic sculptures and architectural brilliance.",
+                  "image":"https://images.unsplash.com/photo-1564890504026-62a1eaea6158"
+               },
+               {
+                  "id":6,
+                  "name":"Pachmarhi",
+                  "description":"Pachmarhi is a hill station in Madhya Pradesh, offering breathtaking views, waterfalls, and lush green landscapes.",
+                  "image":"https://images.unsplash.com/photo-1623045791236-3a2a8e9e99fc"
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore the Wildlife at Kanha National Park",
+                  "description":"Embark on a thrilling wildlife safari in Kanha National Park to spot tigers, leopards, deer, and a variety of bird species."
+               },
+               {
+                  "id":2,
+                  "name":"Visit Sanchi Stupa",
+                  "description":"Discover the ancient Buddhist heritage at Sanchi Stupa and admire the intricate carvings and serene surroundings."
+               },
+               {
+                  "id":3,
+                  "name":"Witness the Magnificence of Gwalior Fort",
+                  "description":"Explore the grandeur of Gwalior Fort, visit the historic palaces, and enjoy the panoramic views of the city."
+               },
+               {
+                  "id":4,
+                  "name":"Marvel at the Rock Art in Bhimbetka Caves",
+                  "description":"Take a journey back in time at Bhimbetka Caves and admire the fascinating prehistoric rock paintings."
+               },
+               {
+                  "id":5,
+                  "name":"Experience the Splendor of Khajuraho Temples",
+                  "description":"Immerse yourself in the architectural brilliance and intricate sculptures of the Khajuraho Temples, depicting various aspects of life."
+               },
+               {
+                  "id":6,
+                  "name":"Enjoy Nature in Pachmarhi",
+                  "description":"Indulge in the serene beauty of Pachmarhi, go hiking to the viewpoints, and relax amidst the enchanting waterfalls."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Khajuraho Dance Festival",
+                  "description":"Witness captivating classical dance performances at the Khajuraho Dance Festival held annually in February."
+               },
+               {
+                  "id":2,
+                  "name":"Ujjain Kumbh Mela",
+                  "description":"Participate in the spiritual gathering of Ujjain Kumbh Mela, held once every 12 years, and experience Hindu rituals and ceremonies."
+               },
+               {
+                  "id":3,
+                  "name":"Tansen Music Festival",
+                  "description":"Enjoy melodious classical music performances at the Tansen Music Festival in Gwalior, dedicated to the legendary musician Tansen."
+               },
+               {
+                  "id":4,
+                  "name":"Malwa Utsav",
+                  "description":"Celebrate the vibrant culture of Malwa region at the Malwa Utsav, featuring traditional music, dance, and handicrafts."
+               },
+               {
+                  "id":5,
+                  "name":"Tribal Lokotsav",
+                  "description":"Experience the rich tribal culture of Madhya Pradesh at the Tribal Lokotsav, showcasing traditional art, crafts, and performances."
+               }
+            ],
+            "facts":[
+               "Madhya Pradesh is often referred to as the 'Heart of India' due to its central location.",
+               "The state has nine national parks and 25 wildlife sanctuaries, making it a haven for nature and wildlife enthusiasts.",
+               "The world-famous Kumbh Mela takes place in Madhya Pradesh, rotating between the cities of Ujjain, Haridwar, Nashik, and Allahabad.",
+               "Bhopal, the capital city of Madhya Pradesh, is known as the 'City of Lakes' due to the presence of several beautiful lakes.",
+               "Madhya Pradesh is home to the largest group of monuments in India, including the UNESCO World Heritage sites of Khajuraho and Sanchi Stupa.",
+               "The state is renowned for its handloom and handicrafts, including the famous Chanderi and Maheshwari sarees.",
+               "Madhya Pradesh has a rich cultural heritage and is known for its folk dances like Giddha, Gond, and Kalbelia.",
+               "Poha, a popular breakfast dish made from flattened rice, is a specialty of Madhya Pradesh.",
+               "The state has a diverse range of flora and fauna, including the iconic Royal Bengal Tiger in its national parks.",
+               "Madhya Pradesh is also known for its natural wonders like marble rock formations in Bhedaghat and the Dhuandhar Waterfall in Jabalpur."
+            ]
+         },
+         {
+            "id":16,
+            "title":"Chhattisgarh",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Raipur",
+                  "description":"Raipur is the capital and largest city of Chhattisgarh."
+               },
+               {
+                  "id":2,
+                  "name":"Bilaspur",
+                  "description":"Bilaspur is a major city in Chhattisgarh, known for its rich cultural heritage and historical sites."
+               },
+               {
+                  "id":3,
+                  "name":"Raigarh",
+                  "description":"Raigarh is a city in Chhattisgarh, famous for its coal mines and steel plants."
+               },
+               {
+                  "id":4,
+                  "name":"Jagdalpur",
+                  "description":"Jagdalpur is a scenic city in Chhattisgarh, surrounded by lush green forests and waterfalls."
+               },
+               {
+                  "id":5,
+                  "name":"Durg",
+                  "description":"Durg is a vibrant city in Chhattisgarh, known for its historical temples and industrial significance."
+               },
+               {
+                  "id":6,
+                  "name":"Bastar",
+                  "description":"Bastar is a tribal region in Chhattisgarh, offering a unique cultural experience and natural beauty."
+               }
+            ],
+            "about":"Chhattisgarh, located in central India, is a state known for its tribal heritage, rich biodiversity, and ancient temples. The state boasts of stunning natural landscapes, waterfalls, and dense forests, providing ample opportunities for adventure and exploration. Chhattisgarh is also home to vibrant tribal communities, each with its distinct culture and traditions.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Chitrakote Waterfall",
+                  "description":"Chitrakote Waterfall is the widest waterfall in India, often referred to as the 'Niagara Falls of India.'",
+                  "image":"https://images.unsplash.com/photo-1565099486862-c6e2b8b47f4b"
+               },
+               {
+                  "id":2,
+                  "name":"Barnawapara Wildlife Sanctuary",
+                  "description":"Barnawapara Wildlife Sanctuary is a haven for wildlife enthusiasts, offering sightings of tigers, leopards, and various bird species.",
+                  "image":"https://images.unsplash.com/photo-1604610846797-4e73d932e7db"
+               },
+               {
+                  "id":3,
+                  "name":"Bastar Dussehra",
+                  "description":"Bastar Dussehra is a unique celebration of the festival, characterized by colorful processions, traditional dances, and music.",
+                  "image":"https://images.unsplash.com/photo-1572624856491-5f527823d6a1"
+               },
+               {
+                  "id":4,
+                  "name":"Bhoramdeo Temple",
+                  "description":"Bhoramdeo Temple is an ancient Hindu temple dedicated to Lord Shiva, known for its intricate carvings and architectural beauty.",
+                  "image":"https://images.unsplash.com/photo-1595958827680-5326bb0ef527"
+               },
+               {
+                  "id":5,
+                  "name":"Kanger Ghati National Park",
+                  "description":"Kanger Ghati National Park is a biodiversity hotspot, home to unique flora and fauna, caves, and stunning natural formations.",
+                  "image":"https://images.unsplash.com/photo-1575557380757-13"
+               },
+               {
+                  "id":6,
+                  "name":"Mahamaya Temple",
+                  "description":"Mahamaya Temple is a popular pilgrimage site in Chhattisgarh, dedicated to the goddess Mahamaya."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore the Majestic Chitrakote Waterfall",
+                  "description":"Visit Chitrakote Waterfall and witness its breathtaking beauty, surrounded by lush greenery and cascading waters."
+               },
+               {
+                  "id":2,
+                  "name":"Embark on a Wildlife Safari at Barnawapara Wildlife Sanctuary",
+                  "description":"Experience an exciting wildlife safari at Barnawapara Wildlife Sanctuary, spot rare animals, and enjoy birdwatching."
+               },
+               {
+                  "id":3,
+                  "name":"Witness the Vibrant Bastar Dussehra Festival",
+                  "description":"Immerse yourself in the vibrant celebrations of Bastar Dussehra, characterized by colorful processions, traditional dances, and music."
+               },
+               {
+                  "id":4,
+                  "name":"Discover the Architectural Beauty of Bhoramdeo Temple",
+                  "description":"Visit the ancient Bhoramdeo Temple dedicated to Lord Shiva, known for its exquisite carvings and architectural splendor."
+               },
+               {
+                  "id":5,
+                  "name":"Explore the Biodiversity at Kanger Ghati National Park",
+                  "description":"Embark on a nature adventure at Kanger Ghati National Park, home to diverse flora, fauna, caves, and natural formations."
+               },
+               {
+                  "id":6,
+                  "name":"Visit Mahant Ghasidas Memorial Museum",
+                  "description":"Explore the fascinating exhibits at Mahant Ghasidas Memorial Museum in Raipur, showcasing the rich history and culture of the region."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Bastar Lokotsav",
+                  "description":"Experience the vibrant tribal culture at the Bastar Lokotsav, featuring traditional art, craft, music, and dance performances."
+               },
+               {
+                  "id":2,
+                  "name":"Rajim Kumbh Mela",
+                  "description":"Participate in the auspicious Rajim Kumbh Mela, a major Hindu pilgrimage and cultural festival held in Rajim."
+               },
+               {
+                  "id":3,
+                  "name":"Sirpur Dance and Music Festival",
+                  "description":"Enjoy mesmerizing dance and music performances at the Sirpur Dance and Music Festival, showcasing classical and folk art forms."
+               },
+               {
+                  "id":4,
+                  "name":"Hareli Festival",
+                  "description":"Celebrate the agricultural festival of Hareli, marked by rituals, traditional performances, and the worship of goddess Annapurna."
+               },
+               {
+                  "id":5,
+                  "name":"Champaran Mela",
+                  "description":"Participate in the vibrant Champaran Mela, a fair dedicated to Lord Rama, featuring cultural programs, music, and local cuisine."
+               }
+            ],
+            "facts":[
+               "Chhattisgarh is the 10th largest state in India, known for its abundant mineral resources.",
+               "The state is famous for its traditional tribal art forms, such as the Bastar wooden crafts and terracotta figurines.",
+               "Chhattisgarh has several ancient rock-cut caves, including the famous Jogimara and Kutumsar caves.",
+               "The state is home to various wildlife sanctuaries and national parks, including Indravati National Park and Udanti-Sitanadi Wildlife Sanctuary.",
+               "Chhattisgarh has a diverse cuisine that includes regional specialties like 'Koshti curry,' 'Chila,' and 'Petha.'",
+               "The state celebrates numerous festivals, including Bastar Dussehra, Madai Festival, and Rajim Kumbh Mela."
+            ]
+         },
+         {
+            "id":17,
+            "title":"Jharkhand",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Ranchi",
+                  "description":"Ranchi is the capital and largest city of Jharkhand, known for its picturesque landscapes and cool climate."
+               },
+               {
+                  "id":2,
+                  "name":"Jamshedpur",
+                  "description":"Jamshedpur is a major industrial city in Jharkhand and home to Tata Steel, one of the largest steel plants in India."
+               },
+               {
+                  "id":3,
+                  "name":"Dhanbad",
+                  "description":"Dhanbad is known as the 'Coal Capital of India' due to its extensive coal mining activities."
+               },
+               {
+                  "id":4,
+                  "name":"Bokaro",
+                  "description":"Bokaro is an industrial city famous for Bokaro Steel Plant and scenic attractions like Parasnath Hill."
+               },
+               {
+                  "id":5,
+                  "name":"Hazaribagh",
+                  "description":"Hazaribagh is a popular tourist destination known for its wildlife sanctuary, waterfalls, and scenic beauty."
+               },
+               {
+                  "id":6,
+                  "name":"Deoghar",
+                  "description":"Deoghar is a holy city and home to the famous Baidyanath Temple, one of the twelve Jyotirlingas in India."
+               }
+            ],
+            "about":"Jharkhand is a state in eastern India known for its rich mineral resources, dense forests, and vibrant tribal culture. The state was carved out of Bihar in 2000 and has since witnessed significant industrial and economic growth. Jharkhand is home to several indigenous tribal communities and offers a unique blend of natural beauty, cultural heritage, and modern development.",
+            "events":[
+               {
+                  "id":1,
+                  "name":"Chhau Dance Festival",
+                  "description":"Witness the vibrant Chhau dance performances during the Chhau Dance Festival, showcasing the traditional martial dance form of Jharkhand."
+               },
+               {
+                  "id":2,
+                  "name":"Sarhul Festival",
+                  "description":"Participate in the colorful Sarhul Festival celebrated by the tribal communities of Jharkhand, featuring cultural performances, music, and traditional rituals."
+               },
+               {
+                  "id":3,
+                  "name":"Kolhaiya Mela",
+                  "description":"Experience the Kolhaiya Mela, a famous cattle fair held in Jharkhand, showcasing cattle trading, traditional sports, folk dances, and local crafts."
+               },
+               {
+                  "id":4,
+                  "name":"Tusu Parab",
+                  "description":"Celebrate the Tusu Parab festival, a harvest festival of Jharkhand, with singing, dancing, and the creation of colorful clay figurines known as Tusu."
+               },
+               {
+                  "id":5,
+                  "name":"Karma Festival",
+                  "description":"Partake in the joyous Karma Festival, celebrated by the tribes of Jharkhand to appease the deity of fate, with traditional music, dance, and rituals."
+               },
+               {
+                  "id":6,
+                  "name":"Jharkhand Film Festival",
+                  "description":"Attend the Jharkhand Film Festival, a platform for showcasing regional films and promoting local talent in the field of cinema."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore the scenic beauty of Netarhat",
+                  "description":"Visit the picturesque hill station of Netarhat known for its breathtaking landscapes and enjoy nature walks, trekking, and stunning sunset views."
+               },
+               {
+                  "id":2,
+                  "name":"Visit the ancient ruins of Rajrappa Temple",
+                  "description":"Discover the ancient temple complex of Rajrappa dedicated to the Hindu goddess Chinnamasta and explore its historical significance and architectural beauty."
+               },
+               {
+                  "id":3,
+                  "name":"Embark on a wildlife safari at Palamau Tiger Reserve",
+                  "description":"Experience a thrilling wildlife safari at Palamau Tiger Reserve and spot diverse flora and fauna, including tigers, leopards, elephants, and various bird species."
+               },
+               {
+                  "id":4,
+                  "name":"Enjoy water sports and boating at Hudru and Jonha Falls",
+                  "description":"Indulge in adventurous water sports and enjoy boating at Hudru and Jonha Falls, known for their scenic beauty and mesmerizing cascades."
+               },
+               {
+                  "id":5,
+                  "name":"Experience rock climbing and rappelling at Parasnath Hills",
+                  "description":"Challenge yourself with rock climbing and rappelling activities at Parasnath Hills, the highest peak in Jharkhand, and enjoy panoramic views from the top."
+               },
+               {
+                  "id":6,
+                  "name":"Witness tribal culture during the Sarhul festival",
+                  "description":"Immerse yourself in the vibrant tribal culture of Jharkhand during the Sarhul festival, featuring traditional dances, music, rituals, and the worship of trees and forests."
+               },
+               {
+                  "id":7,
+                  "name":"Take a pilgrimage tour to Baidyanath Temple in Deoghar",
+                  "description":"Embark on a sacred pilgrimage tour to the renowned Baidyanath Temple in Deoghar, one of the twelve Jyotirlingas, and seek blessings of Lord Shiva."
+               }
+            ],
+            "facts":[
+               "Jharkhand is the leading producer of mineral resources in India, including coal, iron ore, and mica.",
+               "The state of Jharkhand was formed on November 15, 2000, after being carved out of Bihar.",
+               "Jharkhand is home to various indigenous tribal communities, including Santhal, Munda, and Oraon.",
+               "The famous Maithon Dam in Jharkhand is the first multipurpose dam in the country.",
+               "Dhanbad, also known as the 'Coal Capital of India,' is one of the most important coal mining areas in the world."
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Hazaribagh Wildlife Sanctuary",
+                  "description":"Explore the Hazaribagh Wildlife Sanctuary, known for its diverse flora and fauna, trekking trails, and scenic landscapes."
+               },
+               {
+                  "id":2,
+                  "name":"Jagannath Temple, Ranchi",
+                  "description":"Visit the Jagannath Temple in Ranchi, a popular pilgrimage site and architectural marvel known for its beautiful temple complex."
+               },
+               {
+                  "id":3,
+                  "name":"Betla National Park",
+                  "description":"Discover the Betla National Park, home to a wide range of wildlife including tigers, elephants, leopards, and various bird species."
+               },
+               {
+                  "id":4,
+                  "name":"Dassam Falls",
+                  "description":"Witness the breathtaking Dassam Falls, a natural waterfall located near Ranchi, offering picturesque views and a serene atmosphere."
+               },
+               {
+                  "id":5,
+                  "name":"Netarhat",
+                  "description":"Visit the scenic hill station of Netarhat, known as the 'Queen of Chota Nagpur Plateau,' offering panoramic views and pleasant weather."
+               },
+               {
+                  "id":6,
+                  "name":"Parasnath Hill",
+                  "description":"Embark on a spiritual journey to Parasnath Hill, the highest mountain in Jharkhand and an important pilgrimage site for Jains."
+               }
+            ]
+         },
+         {
+            "id":18,
+            "title":"Assam",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Guwahati",
+                  "description":"Guwahati is the largest city in Assam and serves as the gateway to the northeastern region of India."
+               },
+               {
+                  "id":2,
+                  "name":"Jorhat",
+                  "description":"Jorhat is a major urban center in Assam known for its tea gardens, historical sites, and cultural heritage."
+               },
+               {
+                  "id":3,
+                  "name":"Dibrugarh",
+                  "description":"Dibrugarh is the largest city in eastern Assam, famous for its tea industry, vibrant markets, and the Brahmaputra River."
+               },
+               {
+                  "id":4,
+                  "name":"Tezpur",
+                  "description":"Tezpur is a city located on the banks of the Brahmaputra River, known for its scenic beauty, archaeological sites, and temples."
+               },
+               {
+                  "id":5,
+                  "name":"Silchar",
+                  "description":"Silchar is the second-largest city in Assam, known for its picturesque landscapes, tea gardens, and diverse cultural heritage."
+               },
+               {
+                  "id":6,
+                  "name":"Haflong",
+                  "description":"Haflong is the only hill station in Assam, offering panoramic views of the surrounding hills, waterfalls, and rich biodiversity."
+               }
+            ],
+            "about":"Assam, located in northeastern India, is known for its lush tea gardens, wildlife reserves, and rich cultural heritage. The state is home to the mighty Brahmaputra River, the world's largest river island, and numerous national parks. Assam's vibrant festivals, delicious cuisine, and warm hospitality make it a popular destination for travelers seeking unique experiences.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Kaziranga National Park",
+                  "description":"Kaziranga National Park is a UNESCO World Heritage site and a renowned wildlife sanctuary famous for its one-horned rhinoceros and Bengal tigers."
+               },
+               {
+                  "id":2,
+                  "name":"Majuli",
+                  "description":"Majuli is the world's largest river island and a cultural hotspot in Assam, known for its Vaishnavite monasteries and traditional arts."
+               },
+               {
+                  "id":3,
+                  "name":"Kamakhya Temple",
+                  "description":"Visit the Kamakhya Temple, a revered Hindu pilgrimage site dedicated to Goddess Kamakhya and known for its tantric rituals."
+               },
+               {
+                  "id":4,
+                  "name":"Manas National Park",
+                  "description":"Explore the Manas National Park, a UNESCO World Heritage site and a tiger reserve, home to diverse wildlife and breathtaking landscapes."
+               },
+               {
+                  "id":5,
+                  "name":"Sivasagar",
+                  "description":"Sivasagar is a historically significant town in Assam, known for its ancient temples, palaces, and the iconic Rang Ghar."
+               },
+               {
+                  "id":6,
+                  "name":"Kamakhya Hilltop",
+                  "description":"Hike up the Kamakhya Hilltop for panoramic views of Guwahati city, the Brahmaputra River, and the surrounding natural beauty."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Take a River Cruise on the Brahmaputra",
+                  "description":"Embark on a scenic river cruise on the mighty Brahmaputra River, enjoying breathtaking views of the surrounding landscapes and wildlife."
+               },
+               {
+                  "id":2,
+                  "name":"Explore Tea Gardens in Jorhat",
+                  "description":"Visit the lush tea gardens in Jorhat, learn about the tea production process, and savor a cup of Assam's famous tea."
+               },
+               {
+                  "id":3,
+                  "name":"Experience Wildlife Safari in Kaziranga",
+                  "description":"Go on an adventurous wildlife safari in Kaziranga National Park, spotting the iconic one-horned rhinoceros, elephants, and other wildlife."
+               },
+               {
+                  "id":4,
+                  "name":"Discover the Living Cultures of Majuli",
+                  "description":"Immerse yourself in the vibrant cultural traditions of Majuli, interact with the locals, and witness traditional dance and music performances."
+               },
+               {
+                  "id":5,
+                  "name":"Visit the Ahom Monuments in Sivasagar",
+                  "description":"Explore the historical sites and ancient Ahom monuments in Sivasagar, including the Rang Ghar and Talatal Ghar."
+               },
+               {
+                  "id":6,
+                  "name":"Witness the Ambubachi Mela",
+                  "description":"Attend the annual Ambubachi Mela held at the Kamakhya Temple, where devotees gather to celebrate the divine feminine power."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Bihu Festival",
+                  "description":"Participate in the joyous Bihu Festival, Assam's most important cultural festival celebrating the arrival of spring with dance, music, and feasts."
+               },
+               {
+                  "id":2,
+                  "name":"Ambubachi Mela",
+                  "description":"Experience the religious fervor of the Ambubachi Mela, a significant annual festival held at the Kamakhya Temple in Guwahati."
+               },
+               {
+                  "id":3,
+                  "name":"Tea Festival",
+                  "description":"Celebrate the rich tea heritage of Assam at the Tea Festival, featuring tea tasting, cultural performances, and exhibitions."
+               },
+               {
+                  "id":4,
+                  "name":"Jonbeel Mela",
+                  "description":"Witness the vibrant Jonbeel Mela, a traditional fair held at Jonbeel in Morigaon, featuring trade, cultural events, and sports."
+               },
+               {
+                  "id":5,
+                  "name":"Dehing Patkai Festival",
+                  "description":"Attend the Dehing Patkai Festival, showcasing the cultural diversity of Assam with traditional music, dance, and local cuisine."
+               }
+            ],
+            "facts":[
+               "Assam is known for its lush tea gardens and is one of the largest tea-producing regions in the world.",
+               "The Kaziranga National Park is home to two-thirds of the world's population of the endangered one-horned rhinoceros.",
+               "Majuli, the world's largest river island, is a hub of neo-Vaishnavite culture and home to several ancient monasteries.",
+               "Assam is rich in biodiversity and is home to various wildlife sanctuaries and national parks, including Manas National Park and Nameri National Park.",
+               "The Brahmaputra River, flowing through Assam, is one of the longest rivers in the world and plays a significant role in the state's economy and culture.",
+               "Assam is known for its traditional crafts, including handloom weaving, pottery, and bamboo crafts.",
+               "The traditional Assamese cuisine is known for its flavorsome dishes like masor tenga (sour fish curry) and pitha (rice cakes).",
+               "The Ahom dynasty, known for its architectural marvels, ruled Assam for about 600 years."
+            ]
+         },
+         {
+            "id":19,
+            "title":"Meghalaya",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Shillong",
+                  "description":"Shillong is the capital and largest city of Meghalaya, known for its picturesque landscapes, waterfalls, and vibrant music scene."
+               },
+               {
+                  "id":2,
+                  "name":"Cherrapunji",
+                  "description":"Cherrapunji is a scenic town in Meghalaya, famous for being one of the wettest places on Earth and its lush green hills."
+               },
+               {
+                  "id":3,
+                  "name":"Mawlynnong",
+                  "description":"Mawlynnong is a pristine village in Meghalaya, often referred to as the cleanest village in Asia, known for its eco-friendly practices."
+               },
+               {
+                  "id":4,
+                  "name":"Dawki",
+                  "description":"Dawki is a small border town in Meghalaya, renowned for its crystal-clear Umngot River and the annual boat race."
+               },
+               {
+                  "id":5,
+                  "name":"Nongpoh",
+                  "description":"Nongpoh is a town in Meghalaya, known for its scenic beauty, strawberry farms, and as a stopover point for travelers."
+               },
+               {
+                  "id":6,
+                  "name":"Tura",
+                  "description":"Tura is a picturesque town in Meghalaya, located in the Garo Hills region and known for its pleasant climate and rich Garo tribal culture."
+               }
+            ],
+            "about":"Meghalaya, located in northeastern India, is known as the 'Abode of Clouds.' The state is famous for its stunning landscapes, cascading waterfalls, and living root bridges. Meghalaya is home to various indigenous tribes, each with its distinct culture, traditions, and vibrant festivals. The region's lush green valleys, sacred forests, and diverse flora and fauna make it a popular destination for nature lovers and adventure enthusiasts.",
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Living Root Bridges",
+                  "description":"Experience the marvel of living root bridges in Meghalaya, created by intertwining the aerial roots of trees, offering a unique and eco-friendly mode of crossing rivers and streams."
+               },
+               {
+                  "id":2,
+                  "name":"Mawphlang Sacred Forest",
+                  "description":"Explore the Mawphlang Sacred Forest, a pristine woodland believed to be protected by benevolent spirits, and learn about the indigenous Khasi culture and traditions."
+               },
+               {
+                  "id":3,
+                  "name":"Nohkalikai Falls",
+                  "description":"Witness the majestic Nohkalikai Falls, one of the tallest plunge waterfalls in India, plunging from a height of approximately 1,100 feet amidst lush green surroundings."
+               },
+               {
+                  "id":4,
+                  "name":"Double Decker Living Root Bridge",
+                  "description":"Visit the Double Decker Living Root Bridge in Nongriat village, a unique natural wonder where two living root bridges are stacked one above the other."
+               },
+               {
+                  "id":5,
+                  "name":"Elephant Falls",
+                  "description":"Admire the scenic beauty of Elephant Falls, a three-tiered waterfall located near Shillong, named after a rock resembling an elephant."
+               }
+            ],
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Trek to the Living Root Bridges",
+                  "description":"Embark on a trekking adventure to witness the fascinating living root bridges of Meghalaya, navigating through lush green forests and picturesque landscapes."
+               },
+               {
+                  "id":2,
+                  "name":"Explore Mawsmai Cave",
+                  "description":"Discover the wonders of Mawsmai Cave in Cherrapunji, a limestone cave system offering an exciting underground exploration experience."
+               },
+               {
+                  "id":3,
+                  "name":"Enjoy Waterfall Hopping",
+                  "description":"Indulge in waterfall hopping and visit stunning waterfalls like Seven Sisters Falls, Dainthlen Falls, and Krang Suri Falls, among others."
+               },
+               {
+                  "id":4,
+                  "name":"Experience River Rafting in Umngot River",
+                  "description":"Engage in thrilling river rafting in the crystal-clear waters of Umngot River in Dawki, enjoying the scenic beauty and adrenaline rush."
+               },
+               {
+                  "id":5,
+                  "name":"Witness the Living Root Bridge Illumination",
+                  "description":"Attend the mesmerizing Living Root Bridge Illumination event, where the bridges are adorned with colorful lights, creating a magical ambiance."
+               },
+               {
+                  "id":6,
+                  "name":"Savor Traditional Khasi Cuisine",
+                  "description":"Delight your taste buds with traditional Khasi cuisine, savoring dishes like Jadoh (rice and meat), Dohneiiong (pork with black sesame), and Nakham Bitchi (fermented fish chutney)."
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Wangala Festival",
+                  "description":"Celebrate the vibrant Wangala Festival, also known as the Hundred Drums Festival, showcasing the Garo tribal culture through traditional music, dance, and colorful costumes."
+               },
+               {
+                  "id":2,
+                  "name":"Shad Suk Mynsiem",
+                  "description":"Participate in the Shad Suk Mynsiem festival, an important Khasi festival held in Shillong, featuring traditional dances, music, and thanksgiving rituals."
+               },
+               {
+                  "id":3,
+                  "name":"Behdienkhlam Festival",
+                  "description":"Experience the joyous Behdienkhlam Festival celebrated by the Pnar tribe, characterized by vibrant processions, traditional music, and a unique ritual of bamboo fighting."
+               },
+               {
+                  "id":4,
+                  "name":"Nongkrem Dance Festival",
+                  "description":"Attend the Nongkrem Dance Festival, a religious festival of the Khasi tribe held in Shillong, featuring rhythmic dances, rituals, and sacrificial offerings."
+               },
+               {
+                  "id":5,
+                  "name":"Wangala Dance Competition",
+                  "description":"Witness the fierce Wangala Dance Competition, a highlight of the Wangala Festival, where teams showcase their traditional Garo dance skills in a spirited competition."
+               }
+            ],
+            "facts":[
+               "Meghalaya is known as the 'Abode of Clouds' due to its misty landscapes, frequent rainfall, and the cloud cover that blankets the region.",
+               "Cherrapunji, a town in Meghalaya, holds the record for being one of the wettest places on Earth, receiving exceptionally high rainfall.",
+               "Mawlynnong, a village in Meghalaya, has gained recognition as the 'Cleanest Village in Asia' for its exceptional cleanliness and community-driven efforts.",
+               "Meghalaya is renowned for its unique living root bridges, which are natural bridges formed by guiding the roots of rubber trees over many years.",
+               "Meghalaya is home to various indigenous tribes, such as the Khasi, Garo, and Jaintia tribes, each with its distinct culture, traditions, and colorful festivals."
+            ]
+         },
+         {
+            "id":20,
+            "title":"Manipur",
+            "cities":[
+               {
+                  "id":1,
+                  "name":"Imphal",
+                  "description":"Imphal is the capital and largest city of Manipur, known for its scenic beauty and rich cultural heritage."
+               },
+               {
+                  "id":2,
+                  "name":"Ukhrul",
+                  "description":"Ukhrul is a town in Manipur, famous for its picturesque landscapes and the unique Shirui Lily."
+               },
+               {
+                  "id":3,
+                  "name":"Churachandpur",
+                  "description":"Churachandpur is the largest town in Manipur, known for its diverse tribal culture and festivals."
+               },
+               {
+                  "id":4,
+                  "name":"Thoubal",
+                  "description":"Thoubal is a town in Manipur, famous for its agricultural fields and natural beauty."
+               },
+               {
+                  "id":5,
+                  "name":"Bishnupur",
+                  "description":"Bishnupur is a historical town in Manipur, known for its ancient temples and cultural significance."
+               },
+               {
+                  "id":6,
+                  "name":"Kakching",
+                  "description":"Kakching is a town in Manipur, famous for its traditional arts, handicrafts, and natural attractions."
+               }
+            ],
+            "about":"Manipur is a state in northeastern India, known for its scenic landscapes, rich cultural heritage, and diverse tribal communities. The capital city of Manipur is Imphal. The state is renowned for its natural beauty, with lush green valleys, serene lakes, and rolling hills. Manipur is also known for its traditional arts and handicrafts, such as handloom weaving and pottery. The state has a vibrant culture with festivals like Lai Haraoba and Ningol Chakouba being celebrated with great enthusiasm.",
+            "thingsToDo":[
+               {
+                  "id":1,
+                  "name":"Explore Loktak Lake",
+                  "description":"Visit Loktak Lake, the largest freshwater lake in Northeast India, and enjoy a boat ride amidst the floating phumdis (vegetation islands).",
+                  "image":"https://example.com/loktak_lake.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Visit Kangla Fort",
+                  "description":"Explore the historic Kangla Fort, which was the seat of power for Manipur's rulers and is now a popular tourist attraction.",
+                  "image":"https://example.com/kangla_fort.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Trek to Dzuko Valley",
+                  "description":"Embark on a trekking adventure to Dzuko Valley, known for its picturesque landscapes, colorful flowers, and stunning views.",
+                  "image":"https://example.com/dzuko_valley.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Experience Manipuri Dance",
+                  "description":"Witness the vibrant and graceful Manipuri dance performances, which showcase the rich cultural heritage of the state.",
+                  "image":"https://example.com/manipuri_dance.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Visit Shree Govindajee Temple",
+                  "description":"Explore the beautiful Shree Govindajee Temple, a significant place of worship for Manipuri Hindus.",
+                  "image":"https://example.com/govindajee_temple.jpg"
+               },
+               {
+                  "id":6,
+                  "name":"Shop at Ima Keithel",
+                  "description":"Experience the unique Ima Keithel, an all-women's market in Imphal, where you can buy traditional handicrafts, clothing, and local produce.",
+                  "image":"https://example.com/ima_keithel.jpg"
+               }
+            ],
+            "facts":[
+               "Manipur is a state located in Northeast India.",
+               "The capital of Manipur is Imphal.",
+               "Manipur is known for its rich cultural heritage.",
+               "The state is home to various indigenous communities.",
+               "Manipur is famous for its traditional dance forms, including the Manipuri dance.",
+               "The Loktak Lake in Manipur is the largest freshwater lake in Northeast India.",
+               "Manipur is known for its natural beauty, with scenic landscapes and picturesque hills.",
+               "The state is also known for its handloom and handicraft products.",
+               "Manipur has a significant presence of bamboo forests, which contribute to the local economy.",
+               "The Keibul Lamjao National Park in Manipur is the world's only floating national park.",
+               "Manipur has a diverse flora and fauna, including several rare and endangered species."
+            ],
+            "attractions":[
+               {
+                  "id":1,
+                  "name":"Loktak Lake",
+                  "description":"Loktak Lake is the largest freshwater lake in Northeast India. It is famous for its floating phumdis (heterogeneous mass of vegetation, soil, and organic matter) and is home to the endangered Manipur brow-antlered deer, also known as the Sangai.",
+                  "image":"https://example.com/loktak-lake.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Kangla Fort",
+                  "description":"Kangla Fort is an ancient fort located in Imphal, the capital city of Manipur. It holds historical and cultural significance as the seat of power of the Manipuri rulers. The fort houses various temples, ruins, and artifacts.",
+                  "image":"https://example.com/kangla-fort.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Ima Keithel (Mother's Market)",
+                  "description":"Ima Keithel, also known as Mother's Market, is a unique all-women market in Imphal. It is one of the largest women-run markets in Asia and offers a vibrant atmosphere with a wide range of local handicrafts, textiles, and fresh produce.",
+                  "image":"https://example.com/ima-keithel.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Manipur State Museum",
+                  "description":"The Manipur State Museum is located in Imphal and showcases the rich cultural heritage of Manipur. It houses a vast collection of historical artifacts, archaeological objects, traditional costumes, weapons, and artworks.",
+                  "image":"https://example.com/manipur-state-museum.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Kaina Hill",
+                  "description":"Kaina Hill, located near Imphal, is a sacred hill known for its Kaina Temple dedicated to Lord Krishna. The hill provides panoramic views of the surrounding landscape and offers a serene atmosphere for spiritual seekers.",
+                  "image":"https://example.com/kaina-hill.jpg"
+               },
+               {
+                  "id":6,
+                  "name":"Dzuko Valley",
+                  "description":"Dzuko Valley is a picturesque valley located on the Manipur-Nagaland border. It is famous for its seasonal flowers, particularly the rare Dzuko lily. The valley offers breathtaking views of rolling hills and is a popular trekking destination.",
+                  "image":"https://example.com/dzuko-valley.jpg"
+               }
+            ],
+            "events":[
+               {
+                  "id":1,
+                  "name":"Sangai Festival",
+                  "description":"Sangai Festival is an annual cultural festival held in Manipur to promote the state's tourism and showcase its rich cultural heritage. The festival features traditional dances, music performances, handicraft exhibitions, sports activities, and culinary delights.",
+                  "image":"https://example.com/sangai-festival.jpg"
+               },
+               {
+                  "id":2,
+                  "name":"Lai Haraoba",
+                  "description":"Lai Haraoba is a traditional festival celebrated by the Manipuri community to worship the local deities known as Lais. The festival involves vibrant processions, traditional music, dance performances, and ritualistic offerings.",
+                  "image":"https://example.com/lai-haraoba.jpg"
+               },
+               {
+                  "id":3,
+                  "name":"Yaoshang (Holi)",
+                  "description":"Yaoshang, also known as Holi in other parts of India, is a popular festival celebrated with great enthusiasm in Manipur. It involves colorful processions, folk dances, thabal chongba (traditional Manipuri dance), and community feasts.",
+                  "image":"https://example.com/yaoshang-festival.jpg"
+               },
+               {
+                  "id":4,
+                  "name":"Cheiraoba",
+                  "description":"Cheiraoba is the Manipuri New Year festival celebrated in April. It is a time for family gatherings, feasting, and seeking blessings for a prosperous year ahead. People clean their houses, offer prayers, and participate in community events.",
+                  "image":"https://example.com/cheiraoba.jpg"
+               },
+               {
+                  "id":5,
+                  "name":"Kang Chingba",
+                  "description":"Kang Chingba is a lantern festival celebrated during Diwali in Manipur. People decorate their homes with colorful lanterns, light oil lamps, and burst fireworks. The festival creates a magical ambiance and symbolizes the triumph of light over darkness.",
+                  "image":"https://example.com/kang-chingba.jpg"
+               }
+            ]
          }
       ]
    }
